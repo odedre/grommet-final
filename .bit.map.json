@@ -105,7 +105,82 @@
                 "name": "zh.js"
             }
         ],
+        "mainFile": "src/js/messages/zh.js",
+        "origin": "AUTHORED"
+    },
+    "messages-icons/en-us": {
+        "files": [
+            {
+                "relativePath": "src/js/messages/icons/en-US.js",
+                "test": false,
+                "name": "en-US.js"
+            },
+            {
+                "relativePath": "src/js/messages/icons/en.js",
+                "test": false,
+                "name": "en.js"
+            }
+        ],
+        "mainFile": "src/js/messages/icons/en.js",
+        "origin": "AUTHORED"
+    },
+    "messages-icons/fr-fr": {
+        "files": [
+            {
+                "relativePath": "src/js/messages/icons/fr-FR.js",
+                "test": false,
+                "name": "fr-FR.js"
+            },
+            {
+                "relativePath": "src/js/messages/icons/fr.js",
+                "test": false,
+                "name": "fr.js"
+            }
+        ],
+        "mainFile": "src/js/messages/icons/fr.js",
+        "origin": "AUTHORED"
+    },
+    "messages-icons/ja-jp": {
+        "files": [
+            {
+                "relativePath": "src/js/messages/icons/ja-JP.js",
+                "test": false,
+                "name": "ja-JP.js"
+            },
+            {
+                "relativePath": "src/js/messages/icons/ja.js",
+                "test": false,
+                "name": "ja.js"
+            }
+        ],
+        "mainFile": "src/js/messages/icons/ja.js",
+        "origin": "AUTHORED"
+    },
+    "messages-icons/zh-cn": {
+        "files": [
+            {
+                "relativePath": "src/js/messages/icons/zh-CN.js",
+                "test": false,
+                "name": "zh-CN.js"
+            },
+            {
+                "relativePath": "src/js/messages/icons/zh.js",
+                "test": false,
+                "name": "zh.js"
+            }
+        ],
+        "mainFile": "src/js/messages/icons/zh.js",
+        "origin": "AUTHORED"
+    },
+    "messages-icons/nl": {
+        "files": [
+            {
+                "relativePath": "src/js/messages/icons/nl.js",
+                "test": false,
+                "name": "nl.js"
+            }
+        ],
         "origin": "AUTHORED",
-        "mainFile": "src/js/messages/zh.js"
+        "mainFile": "src/js/messages/icons/nl.js"
     }
 }

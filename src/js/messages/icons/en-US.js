@@ -1,0 +1,1 @@
+module.exports = require('../../../../components/messages/ru/dependencies/messages-icons/en-us/odedreuveny.grommet-utils/1/index');

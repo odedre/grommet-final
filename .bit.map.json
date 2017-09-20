@@ -183,73 +183,7 @@
         "mainFile": "src/js/messages/icons/nl.js",
         "origin": "AUTHORED"
     },
-    "utils/alpha-num": {
-        "files": [
-            {
-                "relativePath": "src/js/utils/AlphaNum.js",
-                "test": false,
-                "name": "AlphaNum.js"
-            }
-        ],
-        "mainFile": "src/js/utils/AlphaNum.js",
-        "origin": "AUTHORED"
-    },
-    "utils/announcer": {
-        "files": [
-            {
-                "relativePath": "src/js/utils/Announcer.js",
-                "test": false,
-                "name": "Announcer.js"
-            }
-        ],
-        "mainFile": "src/js/utils/Announcer.js",
-        "origin": "AUTHORED"
-    },
-    "utils/cookies": {
-        "files": [
-            {
-                "relativePath": "src/js/utils/Cookies.js",
-                "test": false,
-                "name": "Cookies.js"
-            }
-        ],
-        "mainFile": "src/js/utils/Cookies.js",
-        "origin": "AUTHORED"
-    },
-    "utils/drop": {
-        "files": [
-            {
-                "relativePath": "src/js/utils/Drop.js",
-                "test": false,
-                "name": "Drop.js"
-            }
-        ],
-        "mainFile": "src/js/utils/Drop.js",
-        "origin": "AUTHORED"
-    },
-    "utils/format-time": {
-        "files": [
-            {
-                "relativePath": "src/js/utils/FormatTime.js",
-                "test": false,
-                "name": "FormatTime.js"
-            }
-        ],
-        "mainFile": "src/js/utils/FormatTime.js",
-        "origin": "AUTHORED"
-    },
-    "utils/graphics": {
-        "files": [
-            {
-                "relativePath": "src/js/utils/Graphics.js",
-                "test": false,
-                "name": "Graphics.js"
-            }
-        ],
-        "mainFile": "src/js/utils/Graphics.js",
-        "origin": "AUTHORED"
-    },
-    "utils/infinite-scroll": {
+    "grommet.utils/utils/infinite-scroll@1": {
         "files": [
             {
                 "relativePath": "src/js/utils/InfiniteScroll.js",
@@ -260,40 +194,7 @@
         "mainFile": "src/js/utils/InfiniteScroll.js",
         "origin": "AUTHORED"
     },
-    "utils/intl": {
-        "files": [
-            {
-                "relativePath": "src/js/utils/Intl.js",
-                "test": false,
-                "name": "Intl.js"
-            }
-        ],
-        "mainFile": "src/js/utils/Intl.js",
-        "origin": "AUTHORED"
-    },
-    "utils/keyboard-accelerators": {
-        "files": [
-            {
-                "relativePath": "src/js/utils/KeyboardAccelerators.js",
-                "test": false,
-                "name": "KeyboardAccelerators.js"
-            }
-        ],
-        "mainFile": "src/js/utils/KeyboardAccelerators.js",
-        "origin": "AUTHORED"
-    },
-    "utils/locale": {
-        "files": [
-            {
-                "relativePath": "src/js/utils/Locale.js",
-                "test": false,
-                "name": "Locale.js"
-            }
-        ],
-        "mainFile": "src/js/utils/Locale.js",
-        "origin": "AUTHORED"
-    },
-    "utils/locale-messages-router": {
+    "grommet.utils/utils/locale-messages-router@1": {
         "files": [
             {
                 "relativePath": "src/js/utils/LocaleMessagesRouter.js",
@@ -304,84 +205,7 @@
         "mainFile": "src/js/utils/LocaleMessagesRouter.js",
         "origin": "AUTHORED"
     },
-    "utils/props": {
-        "files": [
-            {
-                "relativePath": "src/js/utils/Props.js",
-                "test": false,
-                "name": "Props.js"
-            }
-        ],
-        "mainFile": "src/js/utils/Props.js",
-        "origin": "AUTHORED"
-    },
-    "utils/responsive": {
-        "files": [
-            {
-                "relativePath": "src/js/utils/Responsive.js",
-                "test": false,
-                "name": "Responsive.js"
-            }
-        ],
-        "mainFile": "src/js/utils/Responsive.js",
-        "origin": "AUTHORED"
-    },
-    "utils/rest": {
-        "files": [
-            {
-                "relativePath": "src/js/utils/Rest.js",
-                "test": false,
-                "name": "Rest.js"
-            }
-        ],
-        "mainFile": "src/js/utils/Rest.js",
-        "origin": "AUTHORED"
-    },
-    "utils/scroll": {
-        "files": [
-            {
-                "relativePath": "src/js/utils/Scroll.js",
-                "test": false,
-                "name": "Scroll.js"
-            }
-        ],
-        "mainFile": "src/js/utils/Scroll.js",
-        "origin": "AUTHORED"
-    },
-    "utils/selection": {
-        "files": [
-            {
-                "relativePath": "src/js/utils/Selection.js",
-                "test": false,
-                "name": "Selection.js"
-            }
-        ],
-        "mainFile": "src/js/utils/Selection.js",
-        "origin": "AUTHORED"
-    },
-    "utils/string-convert": {
-        "files": [
-            {
-                "relativePath": "src/js/utils/StringConvert.js",
-                "test": false,
-                "name": "StringConvert.js"
-            }
-        ],
-        "mainFile": "src/js/utils/StringConvert.js",
-        "origin": "AUTHORED"
-    },
-    "utils/throttle": {
-        "files": [
-            {
-                "relativePath": "src/js/utils/Throttle.js",
-                "test": false,
-                "name": "Throttle.js"
-            }
-        ],
-        "mainFile": "src/js/utils/Throttle.js",
-        "origin": "AUTHORED"
-    },
-    "utils/validator": {
+    "grommet.utils/utils/validator@1": {
         "files": [
             {
                 "relativePath": "src/js/utils/Validator.js",
@@ -392,7 +216,62 @@
         "mainFile": "src/js/utils/Validator.js",
         "origin": "AUTHORED"
     },
-    "utils/css-classnames": {
+    "grommet.utils/utils/intl@1": {
+        "files": [
+            {
+                "relativePath": "src/js/utils/Intl.js",
+                "test": false,
+                "name": "Intl.js"
+            }
+        ],
+        "mainFile": "src/js/utils/Intl.js",
+        "origin": "AUTHORED"
+    },
+    "grommet.utils/utils/rest@1": {
+        "files": [
+            {
+                "relativePath": "src/js/utils/Rest.js",
+                "test": false,
+                "name": "Rest.js"
+            }
+        ],
+        "mainFile": "src/js/utils/Rest.js",
+        "origin": "AUTHORED"
+    },
+    "grommet.utils/utils/graphics@1": {
+        "files": [
+            {
+                "relativePath": "src/js/utils/Graphics.js",
+                "test": false,
+                "name": "Graphics.js"
+            }
+        ],
+        "mainFile": "src/js/utils/Graphics.js",
+        "origin": "AUTHORED"
+    },
+    "grommet.utils/utils/announcer@1": {
+        "files": [
+            {
+                "relativePath": "src/js/utils/Announcer.js",
+                "test": false,
+                "name": "Announcer.js"
+            }
+        ],
+        "mainFile": "src/js/utils/Announcer.js",
+        "origin": "AUTHORED"
+    },
+    "grommet.utils/utils/string-convert@1": {
+        "files": [
+            {
+                "relativePath": "src/js/utils/StringConvert.js",
+                "test": false,
+                "name": "StringConvert.js"
+            }
+        ],
+        "mainFile": "src/js/utils/StringConvert.js",
+        "origin": "AUTHORED"
+    },
+    "grommet.utils/utils/css-classnames@1": {
         "files": [
             {
                 "relativePath": "src/js/utils/CSSClassnames.js",
@@ -403,7 +282,95 @@
         "mainFile": "src/js/utils/CSSClassnames.js",
         "origin": "AUTHORED"
     },
-    "utils/dom": {
+    "grommet.utils/utils/drop@1": {
+        "files": [
+            {
+                "relativePath": "src/js/utils/Drop.js",
+                "test": false,
+                "name": "Drop.js"
+            }
+        ],
+        "mainFile": "src/js/utils/Drop.js",
+        "origin": "AUTHORED"
+    },
+    "grommet.utils/utils/scroll@1": {
+        "files": [
+            {
+                "relativePath": "src/js/utils/Scroll.js",
+                "test": false,
+                "name": "Scroll.js"
+            }
+        ],
+        "mainFile": "src/js/utils/Scroll.js",
+        "origin": "AUTHORED"
+    },
+    "grommet.utils/utils/responsive@1": {
+        "files": [
+            {
+                "relativePath": "src/js/utils/Responsive.js",
+                "test": false,
+                "name": "Responsive.js"
+            }
+        ],
+        "mainFile": "src/js/utils/Responsive.js",
+        "origin": "AUTHORED"
+    },
+    "grommet.utils/utils/alpha-num@1": {
+        "files": [
+            {
+                "relativePath": "src/js/utils/AlphaNum.js",
+                "test": false,
+                "name": "AlphaNum.js"
+            }
+        ],
+        "mainFile": "src/js/utils/AlphaNum.js",
+        "origin": "AUTHORED"
+    },
+    "grommet.utils/utils/props@1": {
+        "files": [
+            {
+                "relativePath": "src/js/utils/Props.js",
+                "test": false,
+                "name": "Props.js"
+            }
+        ],
+        "mainFile": "src/js/utils/Props.js",
+        "origin": "AUTHORED"
+    },
+    "grommet.utils/utils/keyboard-accelerators@1": {
+        "files": [
+            {
+                "relativePath": "src/js/utils/KeyboardAccelerators.js",
+                "test": false,
+                "name": "KeyboardAccelerators.js"
+            }
+        ],
+        "mainFile": "src/js/utils/KeyboardAccelerators.js",
+        "origin": "AUTHORED"
+    },
+    "grommet.utils/utils/locale@1": {
+        "files": [
+            {
+                "relativePath": "src/js/utils/Locale.js",
+                "test": false,
+                "name": "Locale.js"
+            }
+        ],
+        "mainFile": "src/js/utils/Locale.js",
+        "origin": "AUTHORED"
+    },
+    "grommet.utils/utils/selection@1": {
+        "files": [
+            {
+                "relativePath": "src/js/utils/Selection.js",
+                "test": false,
+                "name": "Selection.js"
+            }
+        ],
+        "mainFile": "src/js/utils/Selection.js",
+        "origin": "AUTHORED"
+    },
+    "grommet.utils/utils/dom@1": {
         "files": [
             {
                 "relativePath": "src/js/utils/DOM.js",
@@ -411,7 +378,40 @@
                 "name": "DOM.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/js/utils/DOM.js"
+        "mainFile": "src/js/utils/DOM.js",
+        "origin": "AUTHORED"
+    },
+    "grommet.utils/utils/format-time@1": {
+        "files": [
+            {
+                "relativePath": "src/js/utils/FormatTime.js",
+                "test": false,
+                "name": "FormatTime.js"
+            }
+        ],
+        "mainFile": "src/js/utils/FormatTime.js",
+        "origin": "AUTHORED"
+    },
+    "grommet.utils/utils/throttle@1": {
+        "files": [
+            {
+                "relativePath": "src/js/utils/Throttle.js",
+                "test": false,
+                "name": "Throttle.js"
+            }
+        ],
+        "mainFile": "src/js/utils/Throttle.js",
+        "origin": "AUTHORED"
+    },
+    "grommet.utils/utils/cookies@1": {
+        "files": [
+            {
+                "relativePath": "src/js/utils/Cookies.js",
+                "test": false,
+                "name": "Cookies.js"
+            }
+        ],
+        "mainFile": "src/js/utils/Cookies.js",
+        "origin": "AUTHORED"
     }
 }

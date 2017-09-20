@@ -1,3 +1,9 @@
+/** 
+ * @description Label SVG Icon. 
+ * @property {string} a11yTitle - Accessibility Title. If not set uses the default title of the status icon.
+ * @property {string} className  
+  
+ */
 // (C) Copyright 2014-2016 Hewlett Packard Enterprise Development LP
 
 import React, { Component } from 'react';

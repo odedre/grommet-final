@@ -1,3 +1,13 @@
+/** 
+ * @description FormTrash SVG Icon. 
+ * @property {string} a11yTitle - Accessibility Title. If not set uses the default title of the status icon.
+ * @property {string} colorIndex - The color identifier to use for the stroke color.
+ * If not specified, this component will default to muiTheme.palette.textColor.
+ * @property {xsmall|small|medium|large|xlarge|huge} size	- The icon size. Defaults to small.
+ * @property {boolean} responsive  - Allows you to redefine what the coordinates. 
+ * @example 
+ * <svg width="24" height="24" ><path d="M7.5,9 L16.5,9 L16.5,19 L7.5,19 L7.5,9 Z M5,9 L19,9 M9.36363636,6 L14.3636364,6 L14.3636364,9 L9.36363636,9 L9.36363636,6 Z M10.5455,11 L10.5455,17 M13.5455,11 L13.5455,17"/></svg> 
+ */
 // (C) Copyright 2014-2015 Hewlett Packard Enterprise Development LP
 
 import React, { Component } from 'react';

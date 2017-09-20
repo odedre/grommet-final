@@ -1,3 +1,14 @@
+/**
+ * @description Grommet icon
+ * 
+ * @property {string} a11yTitle - Accessibility Title. If not set uses the default title of the status icon.
+ * @property {boolean} invert 
+ * @property {small|medium|large|xlarge} size - The icon size. Defaults to small.
+ * 
+ * @example 
+ * <svg className={classes} viewBox='0 0 182 182' width='182' height='182' version='1.1' role='img' aria-label={Intl.getMessage(intl, a11yTitle)}> <path role='presentation' strokeWidth='18' stroke={stroke} fill='none' d='M 91,91 m 0,-82 a 82,82 0 1,1 0,164 a 82,82 0 1,1 0,-164' /></svg>
+ */
+
 // (C) Copyright 2014-2016 Hewlett Packard Enterprise Development LP
 
 import React, { Component } from 'react';
@@ -46,3 +57,4 @@ Grommet.propTypes = {
   invert: PropTypes.bool,
   size: PropTypes.oneOf(['small', 'medium', 'large', 'xlarge'])
 };
+

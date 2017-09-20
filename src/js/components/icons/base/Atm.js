@@ -1,3 +1,13 @@
+/** 
+ * @description Atm SVG Icon. 
+ * @property {string} a11yTitle - Accessibility Title. If not set uses the default title of the status icon.
+ * @property {string} colorIndex - The color identifier to use for the stroke color.
+ * If not specified, this component will default to muiTheme.palette.textColor.
+ * @property {xsmall|small|medium|large|xlarge|huge} size	- The icon size. Defaults to small.
+ * @property {boolean} responsive  - Allows you to redefine what the coordinates. 
+ * @example 
+ * <svg width="24" height="24" ><path d="M4,10 L1,10 L1,6 L23,6 L23,10 L20,10 M6,6 L18,6 L18,20.0059397 C18,21.1072288 17.0980496,22 15.9914698,22 L8.0085302,22 C6.8992496,22 6,21.1054862 6,20.0059397 L6,6 Z M13,18 L16,18 M13,15 L16,15 M13,12 L16,12 M10,22 L10,6 M3,2 L6,2 M8,2 L11,2 M13,2 L16,2 M18,2 L21,2"/></svg> 
+ */
 // (C) Copyright 2014-2015 Hewlett Packard Enterprise Development LP
 
 import React, { Component } from 'react';

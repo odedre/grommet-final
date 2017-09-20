@@ -1,3 +1,13 @@
+/** 
+ * @description Article SVG Icon. 
+ * @property {string} a11yTitle - Accessibility Title. If not set uses the default title of the status icon.
+ * @property {string} colorIndex - The color identifier to use for the stroke color.
+ * If not specified, this component will default to muiTheme.palette.textColor.
+ * @property {xsmall|small|medium|large|xlarge|huge} size	- The icon size. Defaults to small.
+ * @property {boolean} responsive  - Allows you to redefine what the coordinates. 
+ * @example 
+ * <svg width="24" height="24" ><path d="M16,7 L19,7 L19,11 L16,11 L16,7 Z M9,15 L20,15 M9,11 L13,11 M9,7 L13,7 M6,18.5 C6,19.8807119 4.88071187,21 3.5,21 C2.11928813,21 1,19.8807119 1,18.5 L1,7 L6.02493781,7 M6,18.5 L6,3 L23,3 L23,18.5 C23,19.8807119 21.8807119,21 20.5,21 L3.5,21"/></svg> 
+ */
 // (C) Copyright 2014-2015 Hewlett Packard Enterprise Development LP
 
 import React, { Component } from 'react';

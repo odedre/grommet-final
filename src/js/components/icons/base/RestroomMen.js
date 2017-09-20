@@ -1,3 +1,13 @@
+/** 
+ * @description RestroomMen SVG Icon. 
+ * @property {string} a11yTitle - Accessibility Title. If not set uses the default title of the status icon.
+ * @property {string} colorIndex - The color identifier to use for the stroke color.
+ * If not specified, this component will default to muiTheme.palette.textColor.
+ * @property {xsmall|small|medium|large|xlarge|huge} size	- The icon size. Defaults to small.
+ * @property {boolean} responsive  - Allows you to redefine what the coordinates. 
+ * @example 
+ * <svg width="24" height="24" ><path d="M7,13.5 L11,8 L10,21 M17,13.5 L13,8 L14,21 M12,5 C12.5522847,5 13,4.55228475 13,4 C13,3.44771525 12.5522847,3 12,3 C11.4477153,3 11,3.44771525 11,4 C11,4.55228475 11.4477153,5 12,5 Z M11,8 L13,8 L13,13.5 L11,13.5 L11,8 Z"/></svg> 
+ */
 // (C) Copyright 2014-2015 Hewlett Packard Enterprise Development LP
 
 import React, { Component } from 'react';

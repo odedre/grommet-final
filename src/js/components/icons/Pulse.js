@@ -32,3 +32,13 @@ Pulse.propTypes = {
 Pulse.defaultProps = {
   icon: <Add />
 };
+
+/**
+ * @description Pulse icon
+ * 
+ * @property {string} className  
+ * @property {node} icon - Icon element to place in the pulse. See Icon.
+ * 
+ * @example 
+ * <Pulse icon={<LinkNext />} />
+ */

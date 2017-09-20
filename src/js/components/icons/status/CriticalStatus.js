@@ -1,3 +1,10 @@
+/** 
+ * @description CriticalStatus SVG Icon. 
+ * @property {string} a11yTitle - Accessibility Title. If not set uses the default title of the status icon.
+ * @property {string} className  
+ * @example 
+ * <svg width="24" height="24" ><path d="M8,8 L16,16' strokeWidth='2' stroke='#000' fill='none'"/></svg> 
+ */
 // (C) Copyright 2014-2016 Hewlett Packard Enterprise Development LP
 
 import React, { Component } from 'react';

@@ -1,3 +1,13 @@
+/** 
+ * @description Risk SVG Icon. 
+ * @property {string} a11yTitle - Accessibility Title. If not set uses the default title of the status icon.
+ * @property {string} colorIndex - The color identifier to use for the stroke color.
+ * If not specified, this component will default to muiTheme.palette.textColor.
+ * @property {xsmall|small|medium|large|xlarge|huge} size	- The icon size. Defaults to small.
+ * @property {boolean} responsive  - Allows you to redefine what the coordinates. 
+ * @example 
+ * <svg width="24" height="24" ><path d="M14,10 L15,10 L15,9 L14,9 L14,10 Z M18,10 L19,10 L19,9 L18,9 L18,10 Z M18,6 L19,6 L19,5 L18,5 L18,6 Z M14,6 L15,6 L15,5 L14,5 L14,6 Z M9,19 L10,19 L10,18 L9,18 L9,19 Z M5,15 L6,15 L6,14 L5,14 L5,15 Z M10,10 L1,10 L1,23 L14,23 L14,14 M10,14 L23,14 L23,1 L10,1 L10,14 Z"/></svg> 
+ */
 // (C) Copyright 2014-2015 Hewlett Packard Enterprise Development LP
 
 import React, { Component } from 'react';

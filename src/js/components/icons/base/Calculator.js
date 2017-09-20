@@ -1,3 +1,13 @@
+/** 
+ * @description Calculator SVG Icon. 
+ * @property {string} a11yTitle - Accessibility Title. If not set uses the default title of the status icon.
+ * @property {string} colorIndex - The color identifier to use for the stroke color.
+ * If not specified, this component will default to muiTheme.palette.textColor.
+ * @property {xsmall|small|medium|large|xlarge|huge} size	- The icon size. Defaults to small.
+ * @property {boolean} responsive  - Allows you to redefine what the coordinates. 
+ * @example 
+ * <svg width="24" height="24" ><path d="M22,23 L2,23 L2,1 L22,1 L22,23 Z M16,17 L18,17 L18,19 L16,19 L16,17 Z M11,17 L13,17 L13,19 L11,19 L11,17 Z M16,12 L18,12 L18,14 L16,14 L16,12 Z M11,12 L13,12 L13,14 L11,14 L11,12 Z M6,17 L8,17 L8,19 L6,19 L6,17 Z M6,12 L8,12 L8,14 L6,14 L6,12 Z M18,9 L6,9 L6,5 L18,5 L18,9 Z"/></svg> 
+ */
 // (C) Copyright 2014-2015 Hewlett Packard Enterprise Development LP
 
 import React, { Component } from 'react';

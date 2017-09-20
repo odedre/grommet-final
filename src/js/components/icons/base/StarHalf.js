@@ -1,3 +1,13 @@
+/** 
+ * @description StarHalf SVG Icon. 
+ * @property {string} a11yTitle - Accessibility Title. If not set uses the default title of the status icon.
+ * @property {string} colorIndex - The color identifier to use for the stroke color.
+ * If not specified, this component will default to muiTheme.palette.textColor.
+ * @property {xsmall|small|medium|large|xlarge|huge} size	- The icon size. Defaults to small.
+ * @property {boolean} responsive  - Allows you to redefine what the coordinates. 
+ * @example 
+ * <svg width="24" height="24" ><path d="M5,21 L8,14 L3,9 L9,9 L12,3 L15,9 L21,9 L16,14 L19,21 L12,17 L5,21 Z M11,8 L11,16 L8,17.5 L9.5,14 L5.5,10 L10,10 L11,8 Z M8,11 L10,13 L10,11 L8,11 Z"/></svg> 
+ */
 // (C) Copyright 2014-2015 Hewlett Packard Enterprise Development LP
 
 import React, { Component } from 'react';

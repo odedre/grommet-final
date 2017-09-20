@@ -1,3 +1,13 @@
+/** 
+ * @description TestDesktop SVG Icon. 
+ * @property {string} a11yTitle - Accessibility Title. If not set uses the default title of the status icon.
+ * @property {string} colorIndex - The color identifier to use for the stroke color.
+ * If not specified, this component will default to muiTheme.palette.textColor.
+ * @property {xsmall|small|medium|large|xlarge|huge} size	- The icon size. Defaults to small.
+ * @property {boolean} responsive  - Allows you to redefine what the coordinates. 
+ * @example 
+ * <svg width="24" height="24" ><path d="M18.218,1 L23,1 L23,19 L1,19 L1,1 L6,1 M16.9999996,9.99999996 C13,6.99999996 11,13 7.00000002,9.99999996 M5,23 L19,23 L5,23 Z M10,1 L10,5.773 L5,12.955 L5,15 L19,15 L19,12.955 L14,5.773 L14,1 M8,1 L16,1 L8,1 Z M8,23 L16,23 L16,19 L8,19 L8,23 Z"/></svg> 
+ */
 // (C) Copyright 2014-2015 Hewlett Packard Enterprise Development LP
 
 import React, { Component } from 'react';

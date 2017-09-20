@@ -1,3 +1,16 @@
+/**
+ * @description Spinning icon
+ * 
+ * @property {string} a11yTitle - Accessibility Title. If not set uses the default title of the status icon.
+ * @property {boolean} small 
+ * @property {string} className  
+ * @property {small|medium|large|xlarge|huge} size - The icon size. Defaults to medium.
+ * @property {boolean} responsive  - Allows you to redefine the coordinates. 
+ * 
+ * @example 
+ * <svg {...props} className={classes} viewBox='0 0 48 48' version='1.1' role='img' aria-label={a11yTitle || Intl.getMessage(intl, 'Spinning')}><circle cx="24" cy="24" r="21" stroke="#979797" strokeWidth="6" fill="none" /></svg>
+ */
+
 // (C) Copyright 2014-2016 Hewlett Packard Enterprise Development LP
 
 import React, { Component } from 'react';
@@ -51,3 +64,4 @@ Spinning.propTypes = {
   size: PropTypes.oneOf(['small', 'medium', 'large', 'xlarge', 'huge']),
   responsive: PropTypes.bool
 };
+

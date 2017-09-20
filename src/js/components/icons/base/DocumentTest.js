@@ -1,3 +1,13 @@
+/** 
+ * @description DocumentTest SVG Icon. 
+ * @property {string} a11yTitle - Accessibility Title. If not set uses the default title of the status icon.
+ * @property {string} colorIndex - The color identifier to use for the stroke color.
+ * If not specified, this component will default to muiTheme.palette.textColor.
+ * @property {xsmall|small|medium|large|xlarge|huge} size	- The icon size. Defaults to small.
+ * @property {boolean} responsive  - Allows you to redefine what the coordinates. 
+ * @example 
+ * <svg width="24" height="24" ><path d="M4.99787498,5.99999999 L4.99787498,0.999999992 L19.4999998,0.999999992 L22.9999998,4.50000005 L23,23 L20,23 M18,1 L18,6 L23,6 M6,9 L14,9 M8,9 L8,13.5 L3,21.5 L3,23 L17,23 L17,21.4188612 L12,13.5 L12,9 M5.5,17.5 C5.5,17.5 7.5,19.0000002 10,17.5000001 C12.5,16 14.5,17.5000001 14.5,17.5000001"/></svg> 
+ */
 // (C) Copyright 2014-2015 Hewlett Packard Enterprise Development LP
 
 import React, { Component } from 'react';

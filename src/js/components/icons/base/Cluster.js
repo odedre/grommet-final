@@ -1,3 +1,13 @@
+/** 
+ * @description Cluster SVG Icon. 
+ * @property {string} a11yTitle - Accessibility Title. If not set uses the default title of the status icon.
+ * @property {string} colorIndex - The color identifier to use for the stroke color.
+ * If not specified, this component will default to muiTheme.palette.textColor.
+ * @property {xsmall|small|medium|large|xlarge|huge} size	- The icon size. Defaults to small.
+ * @property {boolean} responsive  - Allows you to redefine what the coordinates. 
+ * @example 
+ * <svg width="24" height="24" ><path d="M8,9 L16,9 L16,1 L8,1 L8,9 Z M1,23 L9,23 L9,15 L1,15 L1,23 Z M15,23 L23,23 L23,15 L15,15 L15,23 Z M5,15 L8,9 L5,15 Z M10,19 L14,19 L10,19 Z M16,9 L19,15 L16,9 Z"/></svg> 
+ */
 // (C) Copyright 2014-2015 Hewlett Packard Enterprise Development LP
 
 import React, { Component } from 'react';

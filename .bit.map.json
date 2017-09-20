@@ -425,17 +425,6 @@
         "mainFile": "src/js/components/icons/base/3d.js",
         "origin": "AUTHORED"
     },
-    "icons-base/access-accessibility": {
-        "files": [
-            {
-                "relativePath": "src/js/components/icons/base/AccessAccessibility.js",
-                "test": false,
-                "name": "AccessAccessibility.js"
-            }
-        ],
-        "mainFile": "src/js/components/icons/base/AccessAccessibility.js",
-        "origin": "AUTHORED"
-    },
     "icons-base/access-ad": {
         "files": [
             {
@@ -1063,17 +1052,6 @@
         "mainFile": "src/js/components/icons/base/BusinessService.js",
         "origin": "AUTHORED"
     },
-    "icons-base/cafeteria": {
-        "files": [
-            {
-                "relativePath": "src/js/components/icons/base/Cafeteria.js",
-                "test": false,
-                "name": "Cafeteria.js"
-            }
-        ],
-        "mainFile": "src/js/components/icons/base/Cafeteria.js",
-        "origin": "AUTHORED"
-    },
     "icons-base/calculator": {
         "files": [
             {
@@ -1294,17 +1272,6 @@
         "mainFile": "src/js/components/icons/base/CheckboxSelected.js",
         "origin": "AUTHORED"
     },
-    "icons-base/checkmark": {
-        "files": [
-            {
-                "relativePath": "src/js/components/icons/base/Checkmark.js",
-                "test": false,
-                "name": "Checkmark.js"
-            }
-        ],
-        "mainFile": "src/js/components/icons/base/Checkmark.js",
-        "origin": "AUTHORED"
-    },
     "icons-base/circle-information": {
         "files": [
             {
@@ -1393,17 +1360,6 @@
         "mainFile": "src/js/components/icons/base/Clock.js",
         "origin": "AUTHORED"
     },
-    "icons-base/clone": {
-        "files": [
-            {
-                "relativePath": "src/js/components/icons/base/Clone.js",
-                "test": false,
-                "name": "Clone.js"
-            }
-        ],
-        "mainFile": "src/js/components/icons/base/Clone.js",
-        "origin": "AUTHORED"
-    },
     "icons-base/close": {
         "files": [
             {
@@ -1435,17 +1391,6 @@
             }
         ],
         "mainFile": "src/js/components/icons/base/Cloud.js",
-        "origin": "AUTHORED"
-    },
-    "icons-base/cloud-computer": {
-        "files": [
-            {
-                "relativePath": "src/js/components/icons/base/CloudComputer.js",
-                "test": false,
-                "name": "CloudComputer.js"
-            }
-        ],
-        "mainFile": "src/js/components/icons/base/CloudComputer.js",
         "origin": "AUTHORED"
     },
     "icons-base/cloud-download": {
@@ -1591,17 +1536,6 @@
         "mainFile": "src/js/components/icons/base/Contact.js",
         "origin": "AUTHORED"
     },
-    "icons-base/contact-info": {
-        "files": [
-            {
-                "relativePath": "src/js/components/icons/base/ContactInfo.js",
-                "test": false,
-                "name": "ContactInfo.js"
-            }
-        ],
-        "mainFile": "src/js/components/icons/base/ContactInfo.js",
-        "origin": "AUTHORED"
-    },
     "icons-base/contract": {
         "files": [
             {
@@ -1611,17 +1545,6 @@
             }
         ],
         "mainFile": "src/js/components/icons/base/Contract.js",
-        "origin": "AUTHORED"
-    },
-    "icons-base/copy": {
-        "files": [
-            {
-                "relativePath": "src/js/components/icons/base/Copy.js",
-                "test": false,
-                "name": "Copy.js"
-            }
-        ],
-        "mainFile": "src/js/components/icons/base/Copy.js",
         "origin": "AUTHORED"
     },
     "icons-base/credit-card": {
@@ -1723,17 +1646,6 @@
         "mainFile": "src/js/components/icons/base/Database.js",
         "origin": "AUTHORED"
     },
-    "icons-base/deliver": {
-        "files": [
-            {
-                "relativePath": "src/js/components/icons/base/Deliver.js",
-                "test": false,
-                "name": "Deliver.js"
-            }
-        ],
-        "mainFile": "src/js/components/icons/base/Deliver.js",
-        "origin": "AUTHORED"
-    },
     "icons-base/deploy": {
         "files": [
             {
@@ -1800,28 +1712,6 @@
         "mainFile": "src/js/components/icons/base/Directions.js",
         "origin": "AUTHORED"
     },
-    "icons-base/dislike": {
-        "files": [
-            {
-                "relativePath": "src/js/components/icons/base/Dislike.js",
-                "test": false,
-                "name": "Dislike.js"
-            }
-        ],
-        "mainFile": "src/js/components/icons/base/Dislike.js",
-        "origin": "AUTHORED"
-    },
-    "icons-base/document": {
-        "files": [
-            {
-                "relativePath": "src/js/components/icons/base/Document.js",
-                "test": false,
-                "name": "Document.js"
-            }
-        ],
-        "mainFile": "src/js/components/icons/base/Document.js",
-        "origin": "AUTHORED"
-    },
     "icons-base/document-cloud": {
         "files": [
             {
@@ -1842,17 +1732,6 @@
             }
         ],
         "mainFile": "src/js/components/icons/base/DocumentConfig.js",
-        "origin": "AUTHORED"
-    },
-    "icons-base/document-csv": {
-        "files": [
-            {
-                "relativePath": "src/js/components/icons/base/DocumentCsv.js",
-                "test": false,
-                "name": "DocumentCsv.js"
-            }
-        ],
-        "mainFile": "src/js/components/icons/base/DocumentCsv.js",
         "origin": "AUTHORED"
     },
     "icons-base/document-download": {
@@ -2229,17 +2108,6 @@
         "mainFile": "src/js/components/icons/base/Duplicate.js",
         "origin": "AUTHORED"
     },
-    "icons-base/edit": {
-        "files": [
-            {
-                "relativePath": "src/js/components/icons/base/Edit.js",
-                "test": false,
-                "name": "Edit.js"
-            }
-        ],
-        "mainFile": "src/js/components/icons/base/Edit.js",
-        "origin": "AUTHORED"
-    },
     "icons-base/eject": {
         "files": [
             {
@@ -2359,17 +2227,6 @@
             }
         ],
         "mainFile": "src/js/components/icons/base/FingerPrint.js",
-        "origin": "AUTHORED"
-    },
-    "icons-base/flag": {
-        "files": [
-            {
-                "relativePath": "src/js/components/icons/base/Flag.js",
-                "test": false,
-                "name": "Flag.js"
-            }
-        ],
-        "mainFile": "src/js/components/icons/base/Flag.js",
         "origin": "AUTHORED"
     },
     "icons-base/folder": {
@@ -2570,17 +2427,6 @@
         "mainFile": "src/js/components/icons/base/FormNextLink.js",
         "origin": "AUTHORED"
     },
-    "icons-base/form-previous": {
-        "files": [
-            {
-                "relativePath": "src/js/components/icons/base/FormPrevious.js",
-                "test": false,
-                "name": "FormPrevious.js"
-            }
-        ],
-        "mainFile": "src/js/components/icons/base/FormPrevious.js",
-        "origin": "AUTHORED"
-    },
     "icons-base/form-previous-link": {
         "files": [
             {
@@ -2658,17 +2504,6 @@
         "mainFile": "src/js/components/icons/base/FormUp.js",
         "origin": "AUTHORED"
     },
-    "icons-base/form-upload": {
-        "files": [
-            {
-                "relativePath": "src/js/components/icons/base/FormUpload.js",
-                "test": false,
-                "name": "FormUpload.js"
-            }
-        ],
-        "mainFile": "src/js/components/icons/base/FormUpload.js",
-        "origin": "AUTHORED"
-    },
     "icons-base/forward-ten": {
         "files": [
             {
@@ -2744,17 +2579,6 @@
             }
         ],
         "mainFile": "src/js/components/icons/base/Group.js",
-        "origin": "AUTHORED"
-    },
-    "icons-base/grow": {
-        "files": [
-            {
-                "relativePath": "src/js/components/icons/base/Grow.js",
-                "test": false,
-                "name": "Grow.js"
-            }
-        ],
-        "mainFile": "src/js/components/icons/base/Grow.js",
         "origin": "AUTHORED"
     },
     "icons-base/halt": {
@@ -2843,17 +2667,6 @@
             }
         ],
         "mainFile": "src/js/components/icons/base/Image.js",
-        "origin": "AUTHORED"
-    },
-    "icons-base/impact": {
-        "files": [
-            {
-                "relativePath": "src/js/components/icons/base/Impact.js",
-                "test": false,
-                "name": "Impact.js"
-            }
-        ],
-        "mainFile": "src/js/components/icons/base/Impact.js",
         "origin": "AUTHORED"
     },
     "icons-base/inbox": {
@@ -3032,17 +2845,6 @@
         "mainFile": "src/js/components/icons/base/Like.js",
         "origin": "AUTHORED"
     },
-    "icons-base/line-chart": {
-        "files": [
-            {
-                "relativePath": "src/js/components/icons/base/LineChart.js",
-                "test": false,
-                "name": "LineChart.js"
-            }
-        ],
-        "mainFile": "src/js/components/icons/base/LineChart.js",
-        "origin": "AUTHORED"
-    },
     "icons-base/link": {
         "files": [
             {
@@ -3063,17 +2865,6 @@
             }
         ],
         "mainFile": "src/js/components/icons/base/LinkBottom.js",
-        "origin": "AUTHORED"
-    },
-    "icons-base/link-down": {
-        "files": [
-            {
-                "relativePath": "src/js/components/icons/base/LinkDown.js",
-                "test": false,
-                "name": "LinkDown.js"
-            }
-        ],
-        "mainFile": "src/js/components/icons/base/LinkDown.js",
         "origin": "AUTHORED"
     },
     "icons-base/link-next": {
@@ -3382,17 +3173,6 @@
             }
         ],
         "mainFile": "src/js/components/icons/base/Next.js",
-        "origin": "AUTHORED"
-    },
-    "icons-base/nodes": {
-        "files": [
-            {
-                "relativePath": "src/js/components/icons/base/Nodes.js",
-                "test": false,
-                "name": "Nodes.js"
-            }
-        ],
-        "mainFile": "src/js/components/icons/base/Nodes.js",
         "origin": "AUTHORED"
     },
     "icons-base/note": {
@@ -3978,17 +3758,6 @@
         "mainFile": "src/js/components/icons/base/PlatformSco.js",
         "origin": "AUTHORED"
     },
-    "icons-base/platform-solaris": {
-        "files": [
-            {
-                "relativePath": "src/js/components/icons/base/PlatformSolaris.js",
-                "test": false,
-                "name": "PlatformSolaris.js"
-            }
-        ],
-        "mainFile": "src/js/components/icons/base/PlatformSolaris.js",
-        "origin": "AUTHORED"
-    },
     "icons-base/platform-suse": {
         "files": [
             {
@@ -4053,17 +3822,6 @@
             }
         ],
         "mainFile": "src/js/components/icons/base/PlatformVmware.js",
-        "origin": "AUTHORED"
-    },
-    "icons-base/platform-windows": {
-        "files": [
-            {
-                "relativePath": "src/js/components/icons/base/PlatformWindows.js",
-                "test": false,
-                "name": "PlatformWindows.js"
-            }
-        ],
-        "mainFile": "src/js/components/icons/base/PlatformWindows.js",
         "origin": "AUTHORED"
     },
     "icons-base/platform-windows-legacy": {
@@ -4284,17 +4042,6 @@
             }
         ],
         "mainFile": "src/js/components/icons/base/Rss.js",
-        "origin": "AUTHORED"
-    },
-    "icons-base/run": {
-        "files": [
-            {
-                "relativePath": "src/js/components/icons/base/Run.js",
-                "test": false,
-                "name": "Run.js"
-            }
-        ],
-        "mainFile": "src/js/components/icons/base/Run.js",
         "origin": "AUTHORED"
     },
     "icons-base/satellite": {
@@ -4759,17 +4506,6 @@
         "mainFile": "src/js/components/icons/base/SocialMail.js",
         "origin": "AUTHORED"
     },
-    "icons-base/social-mastercard": {
-        "files": [
-            {
-                "relativePath": "src/js/components/icons/base/SocialMastercard.js",
-                "test": false,
-                "name": "SocialMastercard.js"
-            }
-        ],
-        "mainFile": "src/js/components/icons/base/SocialMastercard.js",
-        "origin": "AUTHORED"
-    },
     "icons-base/social-medium": {
         "files": [
             {
@@ -4834,17 +4570,6 @@
             }
         ],
         "mainFile": "src/js/components/icons/base/SocialSkype.js",
-        "origin": "AUTHORED"
-    },
-    "icons-base/social-slack": {
-        "files": [
-            {
-                "relativePath": "src/js/components/icons/base/SocialSlack.js",
-                "test": false,
-                "name": "SocialSlack.js"
-            }
-        ],
-        "mainFile": "src/js/components/icons/base/SocialSlack.js",
         "origin": "AUTHORED"
     },
     "icons-base/social-snapchat": {
@@ -5364,17 +5089,6 @@
         "mainFile": "src/js/components/icons/base/Terminal.js",
         "origin": "AUTHORED"
     },
-    "icons-base/test": {
-        "files": [
-            {
-                "relativePath": "src/js/components/icons/base/Test.js",
-                "test": false,
-                "name": "Test.js"
-            }
-        ],
-        "mainFile": "src/js/components/icons/base/Test.js",
-        "origin": "AUTHORED"
-    },
     "icons-base/test-desktop": {
         "files": [
             {
@@ -5428,17 +5142,6 @@
             }
         ],
         "mainFile": "src/js/components/icons/base/Tip.js",
-        "origin": "AUTHORED"
-    },
-    "icons-base/toast": {
-        "files": [
-            {
-                "relativePath": "src/js/components/icons/base/Toast.js",
-                "test": false,
-                "name": "Toast.js"
-            }
-        ],
-        "mainFile": "src/js/components/icons/base/Toast.js",
         "origin": "AUTHORED"
     },
     "icons-base/tools": {
@@ -5868,6 +5571,303 @@
             }
         ],
         "mainFile": "src/js/components/icons/base/ZoomOut.js",
+        "origin": "AUTHORED"
+    },
+    "grommet.icons/icons-base/cafeteria@1": {
+        "files": [
+            {
+                "relativePath": "src/js/components/icons/base/Cafeteria.js",
+                "test": false,
+                "name": "Cafeteria.js"
+            }
+        ],
+        "mainFile": "src/js/components/icons/base/Cafeteria.js",
+        "origin": "AUTHORED"
+    },
+    "grommet.icons/icons-base/toast@1": {
+        "files": [
+            {
+                "relativePath": "src/js/components/icons/base/Toast.js",
+                "test": false,
+                "name": "Toast.js"
+            }
+        ],
+        "mainFile": "src/js/components/icons/base/Toast.js",
+        "origin": "AUTHORED"
+    },
+    "grommet.icons/icons-base/copy@1": {
+        "files": [
+            {
+                "relativePath": "src/js/components/icons/base/Copy.js",
+                "test": false,
+                "name": "Copy.js"
+            }
+        ],
+        "mainFile": "src/js/components/icons/base/Copy.js",
+        "origin": "AUTHORED"
+    },
+    "grommet.icons/icons-base/platform-windows@1": {
+        "files": [
+            {
+                "relativePath": "src/js/components/icons/base/PlatformWindows.js",
+                "test": false,
+                "name": "PlatformWindows.js"
+            }
+        ],
+        "mainFile": "src/js/components/icons/base/PlatformWindows.js",
+        "origin": "AUTHORED"
+    },
+    "grommet.icons/icons-base/access-accessibility@1": {
+        "files": [
+            {
+                "relativePath": "src/js/components/icons/base/AccessAccessibility.js",
+                "test": false,
+                "name": "AccessAccessibility.js"
+            }
+        ],
+        "mainFile": "src/js/components/icons/base/AccessAccessibility.js",
+        "origin": "AUTHORED"
+    },
+    "grommet.icons/icons-base/impact@1": {
+        "files": [
+            {
+                "relativePath": "src/js/components/icons/base/Impact.js",
+                "test": false,
+                "name": "Impact.js"
+            }
+        ],
+        "mainFile": "src/js/components/icons/base/Impact.js",
+        "origin": "AUTHORED"
+    },
+    "grommet.icons/icons-base/platform-solaris@1": {
+        "files": [
+            {
+                "relativePath": "src/js/components/icons/base/PlatformSolaris.js",
+                "test": false,
+                "name": "PlatformSolaris.js"
+            }
+        ],
+        "mainFile": "src/js/components/icons/base/PlatformSolaris.js",
+        "origin": "AUTHORED"
+    },
+    "grommet.icons/icons-base/dislike@1": {
+        "files": [
+            {
+                "relativePath": "src/js/components/icons/base/Dislike.js",
+                "test": false,
+                "name": "Dislike.js"
+            }
+        ],
+        "mainFile": "src/js/components/icons/base/Dislike.js",
+        "origin": "AUTHORED"
+    },
+    "grommet.icons/icons-base/deliver@1": {
+        "files": [
+            {
+                "relativePath": "src/js/components/icons/base/Deliver.js",
+                "test": false,
+                "name": "Deliver.js"
+            }
+        ],
+        "mainFile": "src/js/components/icons/base/Deliver.js",
+        "origin": "AUTHORED"
+    },
+    "grommet.icons/icons-base/cloud-computer@1": {
+        "files": [
+            {
+                "relativePath": "src/js/components/icons/base/CloudComputer.js",
+                "test": false,
+                "name": "CloudComputer.js"
+            }
+        ],
+        "mainFile": "src/js/components/icons/base/CloudComputer.js",
+        "origin": "AUTHORED"
+    },
+    "grommet.icons/icons-base/form-previous@1": {
+        "files": [
+            {
+                "relativePath": "src/js/components/icons/base/FormPrevious.js",
+                "test": false,
+                "name": "FormPrevious.js"
+            }
+        ],
+        "mainFile": "src/js/components/icons/base/FormPrevious.js",
+        "origin": "AUTHORED"
+    },
+    "grommet.icons/icons-base/document@1": {
+        "files": [
+            {
+                "relativePath": "src/js/components/icons/base/Document.js",
+                "test": false,
+                "name": "Document.js"
+            }
+        ],
+        "mainFile": "src/js/components/icons/base/Document.js",
+        "origin": "AUTHORED"
+    },
+    "grommet.icons/icons-base/contact-info@1": {
+        "files": [
+            {
+                "relativePath": "src/js/components/icons/base/ContactInfo.js",
+                "test": false,
+                "name": "ContactInfo.js"
+            }
+        ],
+        "mainFile": "src/js/components/icons/base/ContactInfo.js",
+        "origin": "AUTHORED"
+    },
+    "grommet.icons/icons-base/social-mastercard@1": {
+        "files": [
+            {
+                "relativePath": "src/js/components/icons/base/SocialMastercard.js",
+                "test": false,
+                "name": "SocialMastercard.js"
+            }
+        ],
+        "mainFile": "src/js/components/icons/base/SocialMastercard.js",
+        "origin": "AUTHORED"
+    },
+    "grommet.icons/icons-base/checkmark@1": {
+        "files": [
+            {
+                "relativePath": "src/js/components/icons/base/Checkmark.js",
+                "test": false,
+                "name": "Checkmark.js"
+            }
+        ],
+        "mainFile": "src/js/components/icons/base/Checkmark.js",
+        "origin": "AUTHORED"
+    },
+    "grommet.icons/icons-base/grow@1": {
+        "files": [
+            {
+                "relativePath": "src/js/components/icons/base/Grow.js",
+                "test": false,
+                "name": "Grow.js"
+            }
+        ],
+        "mainFile": "src/js/components/icons/base/Grow.js",
+        "origin": "AUTHORED"
+    },
+    "grommet.icons/icons-base/clone@1": {
+        "files": [
+            {
+                "relativePath": "src/js/components/icons/base/Clone.js",
+                "test": false,
+                "name": "Clone.js"
+            }
+        ],
+        "mainFile": "src/js/components/icons/base/Clone.js",
+        "origin": "AUTHORED"
+    },
+    "grommet.icons/icons-base/test@1": {
+        "files": [
+            {
+                "relativePath": "src/js/components/icons/base/Test.js",
+                "test": false,
+                "name": "Test.js"
+            }
+        ],
+        "mainFile": "src/js/components/icons/base/Test.js",
+        "origin": "AUTHORED"
+    },
+    "grommet.icons/icons-base/nodes@1": {
+        "files": [
+            {
+                "relativePath": "src/js/components/icons/base/Nodes.js",
+                "test": false,
+                "name": "Nodes.js"
+            }
+        ],
+        "mainFile": "src/js/components/icons/base/Nodes.js",
+        "origin": "AUTHORED"
+    },
+    "grommet.icons/icons-base/edit@1": {
+        "files": [
+            {
+                "relativePath": "src/js/components/icons/base/Edit.js",
+                "test": false,
+                "name": "Edit.js"
+            }
+        ],
+        "mainFile": "src/js/components/icons/base/Edit.js",
+        "origin": "AUTHORED"
+    },
+    "grommet.icons/icons-base/link-down@1": {
+        "files": [
+            {
+                "relativePath": "src/js/components/icons/base/LinkDown.js",
+                "test": false,
+                "name": "LinkDown.js"
+            }
+        ],
+        "mainFile": "src/js/components/icons/base/LinkDown.js",
+        "origin": "AUTHORED"
+    },
+    "grommet.icons/icons-base/form-upload@1": {
+        "files": [
+            {
+                "relativePath": "src/js/components/icons/base/FormUpload.js",
+                "test": false,
+                "name": "FormUpload.js"
+            }
+        ],
+        "mainFile": "src/js/components/icons/base/FormUpload.js",
+        "origin": "AUTHORED"
+    },
+    "grommet.icons/icons-base/line-chart@1": {
+        "files": [
+            {
+                "relativePath": "src/js/components/icons/base/LineChart.js",
+                "test": false,
+                "name": "LineChart.js"
+            }
+        ],
+        "mainFile": "src/js/components/icons/base/LineChart.js",
+        "origin": "AUTHORED"
+    },
+    "grommet.icons/icons-base/social-slack@1": {
+        "files": [
+            {
+                "relativePath": "src/js/components/icons/base/SocialSlack.js",
+                "test": false,
+                "name": "SocialSlack.js"
+            }
+        ],
+        "mainFile": "src/js/components/icons/base/SocialSlack.js",
+        "origin": "AUTHORED"
+    },
+    "grommet.icons/icons-base/run@1": {
+        "files": [
+            {
+                "relativePath": "src/js/components/icons/base/Run.js",
+                "test": false,
+                "name": "Run.js"
+            }
+        ],
+        "mainFile": "src/js/components/icons/base/Run.js",
+        "origin": "AUTHORED"
+    },
+    "grommet.icons/icons-base/document-csv@1": {
+        "files": [
+            {
+                "relativePath": "src/js/components/icons/base/DocumentCsv.js",
+                "test": false,
+                "name": "DocumentCsv.js"
+            }
+        ],
+        "mainFile": "src/js/components/icons/base/DocumentCsv.js",
+        "origin": "AUTHORED"
+    },
+    "grommet.icons/icons-base/flag@1": {
+        "files": [
+            {
+                "relativePath": "src/js/components/icons/base/Flag.js",
+                "test": false,
+                "name": "Flag.js"
+            }
+        ],
+        "mainFile": "src/js/components/icons/base/Flag.js",
         "origin": "AUTHORED"
     }
 }

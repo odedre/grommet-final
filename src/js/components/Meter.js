@@ -34,7 +34,7 @@ function getMaxDecimalDigits (series) {
 /**
  * @description Shows a bar, arc, or circular meter graphic.
  * 
- * ```js
+ * @example
  * <Box direction='row'
  *   pad={{"between": "small"}}>
  *   <Meter vertical={true}
@@ -56,7 +56,7 @@ function getMaxDecimalDigits (series) {
  *     </Label>
  *   </Box>
  * </Box>
- * ```
+ * 
  */
 export default class Meter extends Component {
 

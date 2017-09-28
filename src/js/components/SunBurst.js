@@ -17,7 +17,7 @@ const PAD_FACTOR = baseUnit * 8;
 /**
  * @description A SunBurst visualization.
  * 
- * ```js
+ * @example
  * import SunBurst from 'grommet/components/SunBurst';
  * 
  * <Box direction='row'
@@ -78,7 +78,7 @@ const PAD_FACTOR = baseUnit * 8;
  *     onClick={...} />
  *   <Legend series={[{"label": "on target", "colorIndex": "neutral-1"}, {"label": "over", "colorIndex": "neutral-2"}, {"label": "under", "colorIndex": "neutral-3"}]} />
  * </Box>
- * ```
+ * 
  */
 export default class SunBurst extends Component {
 

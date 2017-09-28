@@ -12,14 +12,14 @@ import SocialMailIcon from './icons/base/SocialMail';
 /**
  * @description A social media share icon button.
  * 
- * ```js
+ * @example
  * import SocialShare from 'grommet/components/SocialShare';
  *  
  * <SocialShare link='https://grommet.io'
  *   type='email'
  *   title='Sample Title'
  *   text='Sample text' />
- * ```
+ * 
  */
 export default class SocialShare extends Component {
   render () {

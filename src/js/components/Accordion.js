@@ -30,7 +30,7 @@ const CLASS_ROOT = CSSClassnames.ACCORDION;
  *     </Paragraph>
  *   </AccordionPanel>
  * </Accordion>
- * ```
+ * 
  */
 export default class Accordion extends Component {
 

@@ -12,8 +12,10 @@ const BORDER_COLOR_INDEX = CSSClassnames.BORDER_COLOR_INDEX;
 
 /**
  * @description A quote with a colored border.
+ * 
+ * Properties for Box are available.
  *
- * ```js
+ * @example
  * import Quote from 'grommet/components/Quote';
  * 
  * <Quote credit='Ricky Baker'>
@@ -27,9 +29,8 @@ const BORDER_COLOR_INDEX = CSSClassnames.BORDER_COLOR_INDEX;
  *     Living forever.
  *   </Paragraph>
  * </Quote>
- * ```
  * 
- * Properties for [Box](#) are available.
+ * 
  */
 export default class Quote extends Component {
   render () {

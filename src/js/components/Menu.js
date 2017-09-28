@@ -28,8 +28,9 @@ function isFunction (obj) {
 /**
  * @description Presents a list of choices responsively. A Menu can either present the list of choices inline or within a drop down behind a control that opens it.
  * 
- * Properties for [Box](#) are also available.
- * ```js
+ * Properties for Box are also available.
+ * 
+ * @example
  * import Menu from 'grommet/components/Menu';
  * 
  * <Menu responsive={true}
@@ -49,7 +50,7 @@ function isFunction (obj) {
  *   </Anchor>
  * </Menu>
  * 
- * ```
+ * 
  */
 class MenuDrop extends Component {
 

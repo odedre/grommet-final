@@ -10,7 +10,7 @@ import DescIcon from './icons/base/LinkUp';
 /**
  * @description A table header that can be used as a sort control.
  * 
- * ```js
+ * @example
  * import TableHeader from 'grommet/components/TableHeader';
  * 
  * <Table>
@@ -45,7 +45,7 @@ import DescIcon from './icons/base/LinkUp';
  *     </TableRow>
  *   </tbody>
  * </Table>
- * ```
+ * 
  */
 export default class TableHeader extends Component {
 

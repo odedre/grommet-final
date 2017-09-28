@@ -27,8 +27,9 @@ const ACTIVE_CLASS = `${TILE}--active`;
 /**
  * @description A grid of items. The preferred method of populating Tiles is to use Tile children.
  * 
- * Properties for [Box](#) are also available for Tiles.
- * ```js
+ * Properties for Box are also available for Tiles.
+ * 
+ * @example
  * import Tiles from 'grommet/components/Tiles';
  * import Tile from 'grommet/components/Tile';
  * 
@@ -59,7 +60,7 @@ const ACTIVE_CLASS = `${TILE}--active`;
  *       description='Sample description providing more details.' />
  *   </Tile>
  * </Tiles>
- * ```
+ * 
  */
 export default class Tiles extends Component {
 

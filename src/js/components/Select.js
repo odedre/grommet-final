@@ -24,7 +24,7 @@ const FORM_FIELD = CSSClassnames.FORM_FIELD;
 /**
  * @description An select-like field with optional search capability.
  * 
- * ```js
+ * @example
  * import Select from 'grommet/components/Select';
  * 
  * <Select placeHolder='None'
@@ -34,7 +34,7 @@ const FORM_FIELD = CSSClassnames.FORM_FIELD;
  *   options={['one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight']}
  *   value={undefined}
  *   onChange={...} />
- * ```
+ * 
  */
 export default class Select extends Component {
 

@@ -21,7 +21,7 @@ const BACKGROUND_COLOR_INDEX = CSSClassnames.BACKGROUND_COLOR_INDEX;
 /**
  * @description A responsive search control.
  * 
- * ```js
+ * @example
  * import Search from 'grommet/components/Search';
  * 
  * <Search placeHolder='Search'
@@ -30,7 +30,7 @@ const BACKGROUND_COLOR_INDEX = CSSClassnames.BACKGROUND_COLOR_INDEX;
  *   value=''
  *   onSelect={...}
  *   onDOMChange={...} />
- * ```
+ * 
  */
 export default class Search extends Component {
 

@@ -22,7 +22,7 @@ const CLASS_ROOT = CSSClassnames.LOGIN_FORM;
  * 
  * @description The form used to log in.
  * 
- * ```js
+ * @example
  * import LoginForm from 'grommet/components/LoginForm';
  * 
  * <LoginForm onSubmit={...}
@@ -31,8 +31,9 @@ const CLASS_ROOT = CSSClassnames.LOGIN_FORM;
  *   secondaryText='Sample secondary text'
  *   forgotPassword={<Anchor href='#'
  *   label='Forgot password?' />} />
- * ```
+ * 
  */
+
 export default class LoginForm extends Component {
 
   constructor(props, context) {

@@ -11,9 +11,9 @@ const CLASS_ROOT = CSSClassnames.SIDEBAR;
 /**
  * @description A full height, fixed width container. Usually a Sidebar is placed inside a [Split](#) component. A typical usage is for primary navigation, where it typically contains a [Header](#) and a [Menu](#). The Sidebar may or may not be always visible. If it comes and goes, it is typically controlled via a Title component inside a [Header](#) component residing in the other side of the Split.
  * 
- * Properties for [Box](#) are also available.
+ * Properties for Box are also available.
  * 
- * ```js
+ * @example
  * import Sidebar from 'grommet/components/Sidebar';
  * 
  * <Sidebar colorIndex='neutral-1'
@@ -43,7 +43,7 @@ const CLASS_ROOT = CSSClassnames.SIDEBAR;
  *     <Button icon={<User />} />
  *   </Footer>
  * </Sidebar>
- * ```
+ * 
  */
 export default class Sidebar extends Component {
   render () {

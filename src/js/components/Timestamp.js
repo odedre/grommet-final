@@ -25,11 +25,11 @@ function _showField(field, fields) {
  * 
  * @description A localized timestamp.
  * 
- * ```js
+ * @example
  * import Timestamp from 'grommet/components/Timestamp';
  * 
  * <Timestamp value='2017-08-30T13:31:08.515Z' />
- * ```
+ * 
  */
 export default class Timestamp extends Component {
 

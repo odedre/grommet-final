@@ -18,7 +18,7 @@ const BACKGROUND_COLOR_INDEX = CSSClassnames.BACKGROUND_COLOR_INDEX;
  * 
  * Callers must include child <source> elements according to the HTML5 <video> specification.
  * 
- * ```js
+ * @example
  * import Video from 'grommet/components/Video';
  * 
  * <Video autoPlay={true}
@@ -33,7 +33,7 @@ const BACKGROUND_COLOR_INDEX = CSSClassnames.BACKGROUND_COLOR_INDEX;
  *   <source src='/video/test.mp4'
  *     type='video/mp4' />
  * </Video>
- * ```
+ * 
  */
 export default class Video extends Component {
 

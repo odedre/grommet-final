@@ -20,11 +20,11 @@ const FORM_FIELD = CSSClassnames.FORM_FIELD;
 /**
  * @description An input field with a search control.
  * 
- * ```js
+ * @example
  * import SearchInput from 'grommet/components/SearchInput';
  * 
  * <SearchInput placeHolder='Search' />
- * ```
+ * 
  */
 export default class SearchInput extends Component {
 

@@ -11,7 +11,7 @@ const CLASS_ROOT = CSSClassnames.SPLIT;
 /**
  * @description A full height container with two children laid out horizontally. Typical uses involve placing a [Sidebar](#) on the left for primary navigation and then main content on the right. The right side might contain a separate Split component to provide further content depth. Typically, you will want the top Split to be a direct child of the [App](#) component as this will provide the best responsive behavior across devices.
  * 
- * ```js
+ * @example
  * import Split from 'grommet/components/Split';
  * 
  * <Split separator={true}>
@@ -28,7 +28,7 @@ const CLASS_ROOT = CSSClassnames.SPLIT;
  *     Right Side
  *   </Box>
  * </Split>
- * ```
+ * 
  */
 export default class Split extends Component {
 

@@ -5869,5 +5869,82 @@
         ],
         "mainFile": "src/js/components/icons/base/Sync.js",
         "origin": "AUTHORED"
+    },
+    "grommet.utils/icons-status/ok@1": {
+        "files": [
+            {
+                "relativePath": "src/js/components/icons/status/OK.js",
+                "test": false,
+                "name": "OK.js"
+            }
+        ],
+        "mainFile": "src/js/components/icons/status/OK.js",
+        "origin": "AUTHORED"
+    },
+    "grommet.utils/icons-status/unknown@1": {
+        "files": [
+            {
+                "relativePath": "src/js/components/icons/status/Unknown.js",
+                "test": false,
+                "name": "Unknown.js"
+            }
+        ],
+        "mainFile": "src/js/components/icons/status/Unknown.js",
+        "origin": "AUTHORED"
+    },
+    "grommet.utils/icons-status/critical-status@1": {
+        "files": [
+            {
+                "relativePath": "src/js/components/icons/status/CriticalStatus.js",
+                "test": false,
+                "name": "CriticalStatus.js"
+            }
+        ],
+        "mainFile": "src/js/components/icons/status/CriticalStatus.js",
+        "origin": "AUTHORED"
+    },
+    "grommet.utils/icons-status/warning@1": {
+        "files": [
+            {
+                "relativePath": "src/js/components/icons/status/Warning.js",
+                "test": false,
+                "name": "Warning.js"
+            }
+        ],
+        "mainFile": "src/js/components/icons/status/Warning.js",
+        "origin": "AUTHORED"
+    },
+    "grommet.utils/icons-status/label@1": {
+        "files": [
+            {
+                "relativePath": "src/js/components/icons/status/Label.js",
+                "test": false,
+                "name": "Label.js"
+            }
+        ],
+        "mainFile": "src/js/components/icons/status/Label.js",
+        "origin": "AUTHORED"
+    },
+    "grommet.utils/icons-status/disabled@1": {
+        "files": [
+            {
+                "relativePath": "src/js/components/icons/status/Disabled.js",
+                "test": false,
+                "name": "Disabled.js"
+            }
+        ],
+        "mainFile": "src/js/components/icons/status/Disabled.js",
+        "origin": "AUTHORED"
+    },
+    "grommet.utils/icons-status/blank@1": {
+        "files": [
+            {
+                "relativePath": "src/js/components/icons/status/Blank.js",
+                "test": false,
+                "name": "Blank.js"
+            }
+        ],
+        "mainFile": "src/js/components/icons/status/Blank.js",
+        "origin": "AUTHORED"
     }
 }

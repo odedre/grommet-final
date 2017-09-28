@@ -5946,5 +5946,71 @@
         ],
         "mainFile": "src/js/components/icons/status/Blank.js",
         "origin": "AUTHORED"
+    },
+    "icons/grommet": {
+        "files": [
+            {
+                "relativePath": "src/js/components/icons/Grommet.js",
+                "test": false,
+                "name": "Grommet.js"
+            }
+        ],
+        "mainFile": "src/js/components/icons/Grommet.js",
+        "origin": "AUTHORED"
+    },
+    "icons/pulse": {
+        "files": [
+            {
+                "relativePath": "src/js/components/icons/Pulse.js",
+                "test": false,
+                "name": "Pulse.js"
+            }
+        ],
+        "mainFile": "src/js/components/icons/Pulse.js",
+        "origin": "AUTHORED"
+    },
+    "icons/spinning": {
+        "files": [
+            {
+                "relativePath": "src/js/components/icons/Spinning.js",
+                "test": false,
+                "name": "Spinning.js"
+            }
+        ],
+        "mainFile": "src/js/components/icons/Spinning.js",
+        "origin": "AUTHORED"
+    },
+    "icons/status": {
+        "files": [
+            {
+                "relativePath": "src/js/components/icons/Status.js",
+                "test": false,
+                "name": "Status.js"
+            }
+        ],
+        "mainFile": "src/js/components/icons/Status.js",
+        "origin": "AUTHORED"
+    },
+    "icons/social-share": {
+        "files": [
+            {
+                "relativePath": "src/js/components/SocialShare.js",
+                "test": false,
+                "name": "SocialShare.js"
+            }
+        ],
+        "mainFile": "src/js/components/SocialShare.js",
+        "origin": "AUTHORED"
+    },
+    "controls/anchor": {
+        "files": [
+            {
+                "relativePath": "src/js/components/Anchor.js",
+                "test": false,
+                "name": "Anchor.js"
+            }
+        ],
+        "origin": "AUTHORED",
+        "mainFile": "src/js/components/Anchor.js"
     }
 }

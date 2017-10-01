@@ -6053,7 +6053,7 @@
             },
             {
                 "relativePath": "__tests__/components/icons/__snapshots__/Grommet-test.js.snap",
-                "test": true,
+                "test": false,
                 "name": "Grommet-test.js.snap"
             }
         ],
@@ -6074,7 +6074,7 @@
             },
             {
                 "relativePath": "__tests__/components/icons/__snapshots__/Pulse-test.js.snap",
-                "test": true,
+                "test": false,
                 "name": "Pulse-test.js.snap"
             }
         ],
@@ -6095,7 +6095,7 @@
             },
             {
                 "relativePath": "__tests__/components/icons/__snapshots__/Spinning-test.js.snap",
-                "test": true,
+                "test": false,
                 "name": "Spinning-test.js.snap"
             }
         ],
@@ -6116,11 +6116,367 @@
             },
             {
                 "relativePath": "__tests__/components/icons/__snapshots__/Status-test.js.snap",
-                "test": true,
+                "test": false,
                 "name": "Status-test.js.snap"
             }
         ],
+        "mainFile": "src/js/components/icons/Status.js",
+        "origin": "AUTHORED"
+    },
+    "visualization/meter": {
+        "files": [
+            {
+                "relativePath": "src/js/components/meter/Arc.js",
+                "test": false,
+                "name": "Arc.js"
+            },
+            {
+                "relativePath": "__tests__/components/Meter-test.js",
+                "test": true,
+                "name": "Meter-test.js"
+            },
+            {
+                "relativePath": "src/js/components/meter/Bar.js",
+                "test": false,
+                "name": "Bar.js"
+            },
+            {
+                "relativePath": "src/js/components/meter/Circle.js",
+                "test": false,
+                "name": "Circle.js"
+            },
+            {
+                "relativePath": "src/js/components/meter/Graphic.js",
+                "test": false,
+                "name": "Graphic.js"
+            },
+            {
+                "relativePath": "src/js/components/meter/propTypes.js",
+                "test": false,
+                "name": "propTypes.js"
+            },
+            {
+                "relativePath": "src/js/components/meter/Spiral.js",
+                "test": false,
+                "name": "Spiral.js"
+            },
+            {
+                "relativePath": "src/js/components/meter/utils.js",
+                "test": false,
+                "name": "utils.js"
+            },
+            {
+                "relativePath": "src/js/components/Meter.js",
+                "test": false,
+                "name": "Meter.js"
+            }
+        ],
+        "mainFile": "src/js/components/Meter.js",
+        "origin": "AUTHORED"
+    },
+    "layout/box": {
+        "files": [
+            {
+                "relativePath": "src/js/components/Box.js",
+                "test": false,
+                "name": "Box.js"
+            }
+        ],
+        "mainFile": "src/js/components/Box.js",
+        "origin": "AUTHORED"
+    },
+    "layout/columns": {
+        "files": [
+            {
+                "relativePath": "src/js/components/Columns.js",
+                "test": false,
+                "name": "Columns.js"
+            },
+            {
+                "relativePath": "__tests__/components/Columns-test.js",
+                "test": true,
+                "name": "Columns-test.js"
+            },
+            {
+                "relativePath": "__tests__/components/__snapshots__/Columns-test.js.snap",
+                "test": false,
+                "name": "Columns-test.js.snap"
+            }
+        ],
+        "mainFile": "src/js/components/Columns.js",
+        "origin": "AUTHORED"
+    },
+    "layout/layer": {
+        "files": [
+            {
+                "relativePath": "src/js/components/Layer.js",
+                "test": false,
+                "name": "Layer.js"
+            },
+            {
+                "relativePath": "__tests__/components/Layer-test.js",
+                "test": true,
+                "name": "Layer-test.js"
+            },
+            {
+                "relativePath": "__tests__/components/__snapshots__/Layer-test.js.snap",
+                "test": false,
+                "name": "Layer-test.js.snap"
+            }
+        ],
+        "mainFile": "src/js/components/Layer.js",
+        "origin": "AUTHORED"
+    },
+    "layout/split": {
+        "files": [
+            {
+                "relativePath": "src/js/components/Split.js",
+                "test": false,
+                "name": "Split.js"
+            },
+            {
+                "relativePath": "__tests__/components/Split-test.js",
+                "test": true,
+                "name": "Split-test.js"
+            },
+            {
+                "relativePath": "__tests__/components/__snapshots__/Split-test.js.snap",
+                "test": false,
+                "name": "Split-test.js.snap"
+            }
+        ],
+        "mainFile": "src/js/components/Split.js",
+        "origin": "AUTHORED"
+    },
+    "structure/app": {
+        "files": [
+            {
+                "relativePath": "src/js/components/App.js",
+                "test": false,
+                "name": "App.js"
+            },
+            {
+                "relativePath": "__tests__/components/App-test.js",
+                "test": true,
+                "name": "App-test.js"
+            },
+            {
+                "relativePath": "__tests__/components/__snapshots__/App-test.js.snap",
+                "test": true,
+                "name": "App-test.js.snap"
+            }
+        ],
+        "mainFile": "src/js/components/App.js",
+        "origin": "AUTHORED"
+    },
+    "structure/article": {
+        "files": [
+            {
+                "relativePath": "src/js/components/Article.js",
+                "test": false,
+                "name": "Article.js"
+            },
+            {
+                "relativePath": "__tests__/components/Article-test.js",
+                "test": true,
+                "name": "Article-test.js"
+            },
+            {
+                "relativePath": "__tests__/components/__snapshots__/Article-test.js.snap",
+                "test": true,
+                "name": "Article-test.js.snap"
+            }
+        ],
+        "mainFile": "src/js/components/Article.js",
+        "origin": "AUTHORED"
+    },
+    "structure/card": {
+        "files": [
+            {
+                "relativePath": "src/js/components/Card.js",
+                "test": false,
+                "name": "Card.js"
+            },
+            {
+                "relativePath": "__tests__/components/Card-test.js",
+                "test": true,
+                "name": "Card-test.js"
+            },
+            {
+                "relativePath": "__tests__/components/__snapshots__/Card-test.js.snap",
+                "test": true,
+                "name": "Card-test.js.snap"
+            }
+        ],
+        "mainFile": "src/js/components/Card.js",
+        "origin": "AUTHORED"
+    },
+    "structure/footer": {
+        "files": [
+            {
+                "relativePath": "src/js/components/Footer.js",
+                "test": false,
+                "name": "Footer.js"
+            },
+            {
+                "relativePath": "__tests__/components/Footer-test.js",
+                "test": true,
+                "name": "Footer-test.js"
+            },
+            {
+                "relativePath": "__tests__/components/__snapshots__/Footer-test.js.snap",
+                "test": true,
+                "name": "Footer-test.js.snap"
+            }
+        ],
+        "mainFile": "src/js/components/Footer.js",
+        "origin": "AUTHORED"
+    },
+    "structure/header": {
+        "files": [
+            {
+                "relativePath": "src/js/components/Header.js",
+                "test": false,
+                "name": "Header.js"
+            },
+            {
+                "relativePath": "__tests__/components/Header-test.js",
+                "test": true,
+                "name": "Header-test.js"
+            },
+            {
+                "relativePath": "__tests__/components/__snapshots__/Header-test.js.snap",
+                "test": true,
+                "name": "Header-test.js.snap"
+            }
+        ],
+        "mainFile": "src/js/components/Header.js",
+        "origin": "AUTHORED"
+    },
+    "structure/hero": {
+        "files": [
+            {
+                "relativePath": "src/js/components/Hero.js",
+                "test": false,
+                "name": "Hero.js"
+            },
+            {
+                "relativePath": "__tests__/components/Hero-test.js",
+                "test": true,
+                "name": "Hero-test.js"
+            },
+            {
+                "relativePath": "__tests__/components/__snapshots__/Hero-test.js.snap",
+                "test": true,
+                "name": "Hero-test.js.snap"
+            }
+        ],
+        "mainFile": "src/js/components/Hero.js",
+        "origin": "AUTHORED"
+    },
+    "structure/notification": {
+        "files": [
+            {
+                "relativePath": "src/js/components/Notification.js",
+                "test": false,
+                "name": "Notification.js"
+            },
+            {
+                "relativePath": "__tests__/components/Notification-test.js",
+                "test": true,
+                "name": "Notification-test.js"
+            },
+            {
+                "relativePath": "__tests__/components/__snapshots__/Notification-test.js.snap",
+                "test": true,
+                "name": "Notification-test.js.snap"
+            }
+        ],
+        "mainFile": "src/js/components/Notification.js",
+        "origin": "AUTHORED"
+    },
+    "structure/section": {
+        "files": [
+            {
+                "relativePath": "src/js/components/Section.js",
+                "test": false,
+                "name": "Section.js"
+            },
+            {
+                "relativePath": "__tests__/components/Section-test.js",
+                "test": true,
+                "name": "Section-test.js"
+            },
+            {
+                "relativePath": "__tests__/components/__snapshots__/Section-test.js.snap",
+                "test": true,
+                "name": "Section-test.js.snap"
+            }
+        ],
+        "mainFile": "src/js/components/Section.js",
+        "origin": "AUTHORED"
+    },
+    "structure/sidebar": {
+        "files": [
+            {
+                "relativePath": "src/js/components/Sidebar.js",
+                "test": false,
+                "name": "Sidebar.js"
+            },
+            {
+                "relativePath": "__tests__/components/Sidebar-test.js",
+                "test": true,
+                "name": "Sidebar-test.js"
+            },
+            {
+                "relativePath": "__tests__/components/__snapshots__/Sidebar-test.js.snap",
+                "test": true,
+                "name": "Sidebar-test.js.snap"
+            }
+        ],
+        "mainFile": "src/js/components/Sidebar.js",
+        "origin": "AUTHORED"
+    },
+    "structure/toast": {
+        "files": [
+            {
+                "relativePath": "src/js/components/Toast.js",
+                "test": false,
+                "name": "Toast.js"
+            },
+            {
+                "relativePath": "__tests__/components/Toast-test.js",
+                "test": true,
+                "name": "Toast-test.js"
+            },
+            {
+                "relativePath": "__tests__/components/__snapshots__/Toast-test.js.snap",
+                "test": true,
+                "name": "Toast-test.js.snap"
+            }
+        ],
+        "mainFile": "src/js/components/Toast.js",
+        "origin": "AUTHORED"
+    },
+    "structure/value": {
+        "files": [
+            {
+                "relativePath": "src/js/components/Value.js",
+                "test": false,
+                "name": "Value.js"
+            },
+            {
+                "relativePath": "__tests__/components/Value-test.js",
+                "test": true,
+                "name": "Value-test.js"
+            },
+            {
+                "relativePath": "__tests__/components/__snapshots__/Value-test.js.snap",
+                "test": true,
+                "name": "Value-test.js.snap"
+            }
+        ],
         "origin": "AUTHORED",
-        "mainFile": "src/js/components/icons/Status.js"
+        "mainFile": "src/js/components/Value.js"
     }
 }

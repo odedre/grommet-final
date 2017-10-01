@@ -6014,7 +6014,29 @@
                 "name": "Warning-test.js"
             }
         ],
+        "mainFile": "src/js/components/icons/status/Warning.js",
+        "origin": "AUTHORED"
+    },
+    "mocks/fake-icon": {
+        "files": [
+            {
+                "relativePath": "__tests__/mocks/FakeIcon.js",
+                "test": false,
+                "name": "FakeIcon.js"
+            }
+        ],
+        "mainFile": "__tests__/mocks/FakeIcon.js",
+        "origin": "AUTHORED"
+    },
+    "test-utils/renderer-finder": {
+        "files": [
+            {
+                "relativePath": "__tests__/utils/renderer-finder.js",
+                "test": false,
+                "name": "renderer-finder.js"
+            }
+        ],
         "origin": "AUTHORED",
-        "mainFile": "src/js/components/icons/status/Warning.js"
+        "mainFile": "__tests__/utils/renderer-finder.js"
     }
 }

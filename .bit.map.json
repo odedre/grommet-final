@@ -6649,7 +6649,144 @@
                 "name": "Title-test.js.snap"
             }
         ],
+        "mainFile": "src/js/components/Title.js",
+        "origin": "AUTHORED"
+    },
+    "controls/accordion": {
+        "files": [
+            {
+                "relativePath": "src/js/components/Accordion.js",
+                "test": false,
+                "name": "Accordion.js"
+            },
+            {
+                "relativePath": "__tests__/components/Accordion-test.js",
+                "test": true,
+                "name": "Accordion-test.js"
+            },
+            {
+                "relativePath": "__tests__/components/__snapshots__/Accordion-test.js.snap",
+                "test": false,
+                "name": "Accordion-test.js.snap"
+            }
+        ],
+        "mainFile": "src/js/components/Accordion.js",
+        "origin": "AUTHORED"
+    },
+    "controls/anchor": {
+        "files": [
+            {
+                "relativePath": "src/js/components/Anchor.js",
+                "test": false,
+                "name": "Anchor.js"
+            },
+            {
+                "relativePath": "__tests__/components/Anchor-test.js",
+                "test": true,
+                "name": "Anchor-test.js"
+            },
+            {
+                "relativePath": "__tests__/components/__snapshots__/Anchor-test.js.snap",
+                "test": false,
+                "name": "Anchor-test.js.snap"
+            }
+        ],
+        "mainFile": "src/js/components/Anchor.js",
+        "origin": "AUTHORED"
+    },
+    "controls/button": {
+        "files": [
+            {
+                "relativePath": "src/js/components/Button.js",
+                "test": false,
+                "name": "Button.js"
+            },
+            {
+                "relativePath": "__tests__/components/Button-test.js",
+                "test": true,
+                "name": "Button-test.js"
+            },
+            {
+                "relativePath": "__tests__/components/__snapshots__/Button-test.js.snap",
+                "test": false,
+                "name": "Button-test.js.snap"
+            }
+        ],
+        "mainFile": "src/js/components/Button.js",
+        "origin": "AUTHORED"
+    },
+    "controls/menu": {
+        "files": [
+            {
+                "relativePath": "src/js/components/Menu.js",
+                "test": false,
+                "name": "Menu.js"
+            },
+            {
+                "relativePath": "__tests__/components/Menu-test.js",
+                "test": true,
+                "name": "Menu-test.js"
+            },
+            {
+                "relativePath": "__tests__/components/__snapshots__/Menu-test.js.snap",
+                "test": false,
+                "name": "Menu-test.js.snap"
+            }
+        ],
+        "mainFile": "src/js/components/Menu.js",
+        "origin": "AUTHORED"
+    },
+    "controls/search": {
+        "files": [
+            {
+                "relativePath": "src/js/components/Search.js",
+                "test": false,
+                "name": "Search.js"
+            },
+            {
+                "relativePath": "__tests__/components/Search-test.js",
+                "test": true,
+                "name": "Search-test.js"
+            },
+            {
+                "relativePath": "__tests__/components/__snapshots__/Search-test.js.snap",
+                "test": false,
+                "name": "Search-test.js.snap"
+            }
+        ],
+        "mainFile": "src/js/components/Search.js",
+        "origin": "AUTHORED"
+    },
+    "controls/tabs": {
+        "files": [
+            {
+                "relativePath": "src/js/components/Tabs.js",
+                "test": false,
+                "name": "Tabs.js"
+            },
+            {
+                "relativePath": "__tests__/components/Tabs-test.js",
+                "test": true,
+                "name": "Tabs-test.js"
+            },
+            {
+                "relativePath": "__tests__/components/__snapshots__/Tabs-test.js.snap",
+                "test": false,
+                "name": "Tabs-test.js.snap"
+            }
+        ],
+        "mainFile": "src/js/components/Tabs.js",
+        "origin": "AUTHORED"
+    },
+    "controls/tip": {
+        "files": [
+            {
+                "relativePath": "src/js/components/Tip.js",
+                "test": false,
+                "name": "Tip.js"
+            }
+        ],
         "origin": "AUTHORED",
-        "mainFile": "src/js/components/Title.js"
+        "mainFile": "src/js/components/Tip.js"
     }
 }

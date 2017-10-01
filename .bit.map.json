@@ -6136,6 +6136,11 @@
                 "name": "Meter-test.js"
             },
             {
+                "relativePath": "__tests__/components/__snapshots__/Meter-test.js.snap",
+                "test": false,
+                "name": "Meter.js"
+            },
+            {
                 "relativePath": "src/js/components/meter/Bar.js",
                 "test": false,
                 "name": "Bar.js"
@@ -6262,7 +6267,7 @@
             },
             {
                 "relativePath": "__tests__/components/__snapshots__/App-test.js.snap",
-                "test": true,
+                "test": false,
                 "name": "App-test.js.snap"
             }
         ],
@@ -6283,7 +6288,7 @@
             },
             {
                 "relativePath": "__tests__/components/__snapshots__/Article-test.js.snap",
-                "test": true,
+                "test": false,
                 "name": "Article-test.js.snap"
             }
         ],
@@ -6304,7 +6309,7 @@
             },
             {
                 "relativePath": "__tests__/components/__snapshots__/Card-test.js.snap",
-                "test": true,
+                "test": false,
                 "name": "Card-test.js.snap"
             }
         ],
@@ -6325,7 +6330,7 @@
             },
             {
                 "relativePath": "__tests__/components/__snapshots__/Footer-test.js.snap",
-                "test": true,
+                "test": false,
                 "name": "Footer-test.js.snap"
             }
         ],
@@ -6346,7 +6351,7 @@
             },
             {
                 "relativePath": "__tests__/components/__snapshots__/Header-test.js.snap",
-                "test": true,
+                "test": false,
                 "name": "Header-test.js.snap"
             }
         ],
@@ -6367,7 +6372,7 @@
             },
             {
                 "relativePath": "__tests__/components/__snapshots__/Hero-test.js.snap",
-                "test": true,
+                "test": false,
                 "name": "Hero-test.js.snap"
             }
         ],
@@ -6388,7 +6393,7 @@
             },
             {
                 "relativePath": "__tests__/components/__snapshots__/Notification-test.js.snap",
-                "test": true,
+                "test": false,
                 "name": "Notification-test.js.snap"
             }
         ],
@@ -6409,7 +6414,7 @@
             },
             {
                 "relativePath": "__tests__/components/__snapshots__/Section-test.js.snap",
-                "test": true,
+                "test": false,
                 "name": "Section-test.js.snap"
             }
         ],
@@ -6430,7 +6435,7 @@
             },
             {
                 "relativePath": "__tests__/components/__snapshots__/Sidebar-test.js.snap",
-                "test": true,
+                "test": false,
                 "name": "Sidebar-test.js.snap"
             }
         ],
@@ -6451,7 +6456,7 @@
             },
             {
                 "relativePath": "__tests__/components/__snapshots__/Toast-test.js.snap",
-                "test": true,
+                "test": false,
                 "name": "Toast-test.js.snap"
             }
         ],
@@ -6472,7 +6477,7 @@
             },
             {
                 "relativePath": "__tests__/components/__snapshots__/Value-test.js.snap",
-                "test": true,
+                "test": false,
                 "name": "Value-test.js.snap"
             }
         ],

@@ -6481,7 +6481,175 @@
                 "name": "Value-test.js.snap"
             }
         ],
+        "mainFile": "src/js/components/Value.js",
+        "origin": "AUTHORED"
+    },
+    "text/heading": {
+        "files": [
+            {
+                "relativePath": "src/js/components/Heading.js",
+                "test": false,
+                "name": "Heading.js"
+            },
+            {
+                "relativePath": "__tests__/components/Heading-test.js",
+                "test": true,
+                "name": "Heading-test.js"
+            },
+            {
+                "relativePath": "__tests__/components/__snapshots__/Heading-test.js.snap",
+                "test": false,
+                "name": "Heading-test.js.snap"
+            }
+        ],
+        "mainFile": "src/js/components/Heading.js",
+        "origin": "AUTHORED"
+    },
+    "text/headline": {
+        "files": [
+            {
+                "relativePath": "src/js/components/Headline.js",
+                "test": false,
+                "name": "Headline.js"
+            },
+            {
+                "relativePath": "__tests__/components/Headline-test.js",
+                "test": true,
+                "name": "Headline-test.js"
+            },
+            {
+                "relativePath": "__tests__/components/__snapshots__/Headline-test.js.snap",
+                "test": false,
+                "name": "Headline-test.js.snap"
+            }
+        ],
+        "mainFile": "src/js/components/Headline.js",
+        "origin": "AUTHORED"
+    },
+    "text/label": {
+        "files": [
+            {
+                "relativePath": "src/js/components/Label.js",
+                "test": false,
+                "name": "Label.js"
+            },
+            {
+                "relativePath": "__tests__/components/Label-test.js",
+                "test": true,
+                "name": "Label-test.js"
+            },
+            {
+                "relativePath": "__tests__/components/__snapshots__/Label-test.js.snap",
+                "test": false,
+                "name": "Label-test.js.snap"
+            }
+        ],
+        "mainFile": "src/js/components/Label.js",
+        "origin": "AUTHORED"
+    },
+    "text/markdown": {
+        "files": [
+            {
+                "relativePath": "src/js/components/Markdown.js",
+                "test": false,
+                "name": "Markdown.js"
+            },
+            {
+                "relativePath": "__tests__/components/Markdown-test.js",
+                "test": true,
+                "name": "Markdown-test.js"
+            },
+            {
+                "relativePath": "__tests__/components/__snapshots__/Markdown-test.js.snap",
+                "test": false,
+                "name": "Markdown-test.js.snap"
+            }
+        ],
+        "mainFile": "src/js/components/Markdown.js",
+        "origin": "AUTHORED"
+    },
+    "text/paragraph": {
+        "files": [
+            {
+                "relativePath": "src/js/components/Paragraph.js",
+                "test": false,
+                "name": "Paragraph.js"
+            },
+            {
+                "relativePath": "__tests__/components/Paragraph-test.js",
+                "test": true,
+                "name": "Paragraph-test.js"
+            },
+            {
+                "relativePath": "__tests__/components/__snapshots__/Paragraph-test.js.snap",
+                "test": false,
+                "name": "Paragraph-test.js.snap"
+            }
+        ],
+        "mainFile": "src/js/components/Paragraph.js",
+        "origin": "AUTHORED"
+    },
+    "text/quote": {
+        "files": [
+            {
+                "relativePath": "src/js/components/Quote.js",
+                "test": false,
+                "name": "Quote.js"
+            },
+            {
+                "relativePath": "__tests__/components/Quote-test.js",
+                "test": true,
+                "name": "Quote-test.js"
+            },
+            {
+                "relativePath": "__tests__/components/__snapshots__/Quote-test.js.snap",
+                "test": false,
+                "name": "Quote-test.js.snap"
+            }
+        ],
+        "mainFile": "src/js/components/Quote.js",
+        "origin": "AUTHORED"
+    },
+    "text/timestamp": {
+        "files": [
+            {
+                "relativePath": "src/js/components/Timestamp.js",
+                "test": false,
+                "name": "Timestamp.js"
+            },
+            {
+                "relativePath": "__tests__/components/Timestamp-test.js",
+                "test": true,
+                "name": "Timestamp-test.js"
+            },
+            {
+                "relativePath": "__tests__/components/__snapshots__/Timestamp-test.js.snap",
+                "test": false,
+                "name": "Timestamp-test.js.snap"
+            }
+        ],
+        "mainFile": "src/js/components/Timestamp.js",
+        "origin": "AUTHORED"
+    },
+    "text/title": {
+        "files": [
+            {
+                "relativePath": "src/js/components/Title.js",
+                "test": false,
+                "name": "Title.js"
+            },
+            {
+                "relativePath": "__tests__/components/Title-test.js",
+                "test": true,
+                "name": "Title-test.js"
+            },
+            {
+                "relativePath": "__tests__/components/__snapshots__/Title-test.js.snap",
+                "test": false,
+                "name": "Title-test.js.snap"
+            }
+        ],
         "origin": "AUTHORED",
-        "mainFile": "src/js/components/Value.js"
+        "mainFile": "src/js/components/Title.js"
     }
 }

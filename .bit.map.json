@@ -6038,5 +6038,89 @@
         ],
         "mainFile": "src/js/components/icons/status/Warning.js",
         "origin": "AUTHORED"
+    },
+    "icons/grommet": {
+        "files": [
+            {
+                "relativePath": "src/js/components/icons/Grommet.js",
+                "test": false,
+                "name": "Grommet.js"
+            },
+            {
+                "relativePath": "__tests__/components/icons/Grommet-test.js",
+                "test": true,
+                "name": "Grommet-test.js"
+            },
+            {
+                "relativePath": "__tests__/components/icons/__snapshots__/Grommet-test.js.snap",
+                "test": true,
+                "name": "Grommet-test.js.snap"
+            }
+        ],
+        "mainFile": "src/js/components/icons/Grommet.js",
+        "origin": "AUTHORED"
+    },
+    "icons/pulse": {
+        "files": [
+            {
+                "relativePath": "src/js/components/icons/Pulse.js",
+                "test": false,
+                "name": "Pulse.js"
+            },
+            {
+                "relativePath": "__tests__/components/icons/Pulse-test.js",
+                "test": true,
+                "name": "Pulse-test.js"
+            },
+            {
+                "relativePath": "__tests__/components/icons/__snapshots__/Pulse-test.js.snap",
+                "test": true,
+                "name": "Pulse-test.js.snap"
+            }
+        ],
+        "mainFile": "src/js/components/icons/Pulse.js",
+        "origin": "AUTHORED"
+    },
+    "icons/spinning": {
+        "files": [
+            {
+                "relativePath": "src/js/components/icons/Spinning.js",
+                "test": false,
+                "name": "Spinning.js"
+            },
+            {
+                "relativePath": "__tests__/components/icons/Spinning-test.js",
+                "test": true,
+                "name": "Spinning-test.js"
+            },
+            {
+                "relativePath": "__tests__/components/icons/__snapshots__/Spinning-test.js.snap",
+                "test": true,
+                "name": "Spinning-test.js.snap"
+            }
+        ],
+        "mainFile": "src/js/components/icons/Spinning.js",
+        "origin": "AUTHORED"
+    },
+    "icons/status": {
+        "files": [
+            {
+                "relativePath": "src/js/components/icons/Status.js",
+                "test": false,
+                "name": "Status.js"
+            },
+            {
+                "relativePath": "__tests__/components/icons/Status-test.js",
+                "test": true,
+                "name": "Status-test.js"
+            },
+            {
+                "relativePath": "__tests__/components/icons/__snapshots__/Status-test.js.snap",
+                "test": true,
+                "name": "Status-test.js.snap"
+            }
+        ],
+        "origin": "AUTHORED",
+        "mainFile": "src/js/components/icons/Status.js"
     }
 }

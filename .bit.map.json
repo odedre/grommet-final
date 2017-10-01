@@ -5870,7 +5870,29 @@
         "mainFile": "src/js/components/icons/base/Sync.js",
         "origin": "AUTHORED"
     },
-    "status/blank": {
+    "grommet.utils/mocks/fake-icon@1": {
+        "files": [
+            {
+                "relativePath": "__tests__/mocks/FakeIcon.js",
+                "test": false,
+                "name": "FakeIcon.js"
+            }
+        ],
+        "mainFile": "__tests__/mocks/FakeIcon.js",
+        "origin": "AUTHORED"
+    },
+    "grommet.utils/test-utils/renderer-finder@1": {
+        "files": [
+            {
+                "relativePath": "__tests__/utils/renderer-finder.js",
+                "test": false,
+                "name": "renderer-finder.js"
+            }
+        ],
+        "mainFile": "__tests__/utils/renderer-finder.js",
+        "origin": "AUTHORED"
+    },
+    "grommet.react-components/status/blank@1": {
         "files": [
             {
                 "relativePath": "src/js/components/icons/status/Blank.js",
@@ -5891,28 +5913,7 @@
         "mainFile": "src/js/components/icons/status/Blank.js",
         "origin": "AUTHORED"
     },
-    "status/critical-status": {
-        "files": [
-            {
-                "relativePath": "src/js/components/icons/status/CriticalStatus.js",
-                "test": false,
-                "name": "CriticalStatus.js"
-            },
-            {
-                "relativePath": "__tests__/components/icons/status/__snapshots__/CriticalStatus-test.js.snap",
-                "test": false,
-                "name": "CriticalStatus-test.js.snap"
-            },
-            {
-                "relativePath": "__tests__/components/icons/status/CriticalStatus-test.js",
-                "test": true,
-                "name": "CriticalStatus-test.js"
-            }
-        ],
-        "mainFile": "src/js/components/icons/status/CriticalStatus.js",
-        "origin": "AUTHORED"
-    },
-    "status/disabled": {
+    "grommet.react-components/status/disabled@1": {
         "files": [
             {
                 "relativePath": "src/js/components/icons/status/Disabled.js",
@@ -5933,49 +5934,7 @@
         "mainFile": "src/js/components/icons/status/Disabled.js",
         "origin": "AUTHORED"
     },
-    "status/label": {
-        "files": [
-            {
-                "relativePath": "src/js/components/icons/status/Label.js",
-                "test": false,
-                "name": "Label.js"
-            },
-            {
-                "relativePath": "__tests__/components/icons/status/__snapshots__/Label-test.js.snap",
-                "test": false,
-                "name": "Label-test.js.snap"
-            },
-            {
-                "relativePath": "__tests__/components/icons/status/Label-test.js",
-                "test": true,
-                "name": "Label-test.js"
-            }
-        ],
-        "mainFile": "src/js/components/icons/status/Label.js",
-        "origin": "AUTHORED"
-    },
-    "status/ok": {
-        "files": [
-            {
-                "relativePath": "src/js/components/icons/status/OK.js",
-                "test": false,
-                "name": "OK.js"
-            },
-            {
-                "relativePath": "__tests__/components/icons/status/__snapshots__/OK-test.js.snap",
-                "test": false,
-                "name": "OK-test.js.snap"
-            },
-            {
-                "relativePath": "__tests__/components/icons/status/OK-test.js",
-                "test": true,
-                "name": "OK-test.js"
-            }
-        ],
-        "mainFile": "src/js/components/icons/status/OK.js",
-        "origin": "AUTHORED"
-    },
-    "status/unknown": {
+    "grommet.react-components/status/unknown@1": {
         "files": [
             {
                 "relativePath": "src/js/components/icons/status/Unknown.js",
@@ -5996,7 +5955,70 @@
         "mainFile": "src/js/components/icons/status/Unknown.js",
         "origin": "AUTHORED"
     },
-    "status/warning": {
+    "grommet.react-components/status/critical-status@1": {
+        "files": [
+            {
+                "relativePath": "src/js/components/icons/status/CriticalStatus.js",
+                "test": false,
+                "name": "CriticalStatus.js"
+            },
+            {
+                "relativePath": "__tests__/components/icons/status/__snapshots__/CriticalStatus-test.js.snap",
+                "test": false,
+                "name": "CriticalStatus-test.js.snap"
+            },
+            {
+                "relativePath": "__tests__/components/icons/status/CriticalStatus-test.js",
+                "test": true,
+                "name": "CriticalStatus-test.js"
+            }
+        ],
+        "mainFile": "src/js/components/icons/status/CriticalStatus.js",
+        "origin": "AUTHORED"
+    },
+    "grommet.react-components/status/ok@1": {
+        "files": [
+            {
+                "relativePath": "src/js/components/icons/status/OK.js",
+                "test": false,
+                "name": "OK.js"
+            },
+            {
+                "relativePath": "__tests__/components/icons/status/__snapshots__/OK-test.js.snap",
+                "test": false,
+                "name": "OK-test.js.snap"
+            },
+            {
+                "relativePath": "__tests__/components/icons/status/OK-test.js",
+                "test": true,
+                "name": "OK-test.js"
+            }
+        ],
+        "mainFile": "src/js/components/icons/status/OK.js",
+        "origin": "AUTHORED"
+    },
+    "grommet.react-components/status/label@1": {
+        "files": [
+            {
+                "relativePath": "src/js/components/icons/status/Label.js",
+                "test": false,
+                "name": "Label.js"
+            },
+            {
+                "relativePath": "__tests__/components/icons/status/__snapshots__/Label-test.js.snap",
+                "test": false,
+                "name": "Label-test.js.snap"
+            },
+            {
+                "relativePath": "__tests__/components/icons/status/Label-test.js",
+                "test": true,
+                "name": "Label-test.js"
+            }
+        ],
+        "mainFile": "src/js/components/icons/status/Label.js",
+        "origin": "AUTHORED"
+    },
+    "grommet.react-components/status/warning@1": {
         "files": [
             {
                 "relativePath": "src/js/components/icons/status/Warning.js",
@@ -6016,27 +6038,5 @@
         ],
         "mainFile": "src/js/components/icons/status/Warning.js",
         "origin": "AUTHORED"
-    },
-    "mocks/fake-icon": {
-        "files": [
-            {
-                "relativePath": "__tests__/mocks/FakeIcon.js",
-                "test": false,
-                "name": "FakeIcon.js"
-            }
-        ],
-        "mainFile": "__tests__/mocks/FakeIcon.js",
-        "origin": "AUTHORED"
-    },
-    "test-utils/renderer-finder": {
-        "files": [
-            {
-                "relativePath": "__tests__/utils/renderer-finder.js",
-                "test": false,
-                "name": "renderer-finder.js"
-            }
-        ],
-        "origin": "AUTHORED",
-        "mainFile": "__tests__/utils/renderer-finder.js"
     }
 }

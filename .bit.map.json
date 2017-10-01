@@ -6786,7 +6786,228 @@
                 "name": "Tip.js"
             }
         ],
+        "mainFile": "src/js/components/Tip.js",
+        "origin": "AUTHORED"
+    },
+    "forms/checkbox": {
+        "files": [
+            {
+                "relativePath": "src/js/components/CheckBox.js",
+                "test": false,
+                "name": "CheckBox.js"
+            },
+            {
+                "relativePath": "__tests__/components/CheckBox-test.js",
+                "test": true,
+                "name": "CheckBox-test.js"
+            },
+            {
+                "relativePath": "__tests__/components/__snapshots__/CheckBox-test.js.snap",
+                "test": false,
+                "name": "CheckBox-test.js.snap"
+            }
+        ],
+        "mainFile": "src/js/components/CheckBox.js",
+        "origin": "AUTHORED"
+    },
+    "forms/date-time": {
+        "files": [
+            {
+                "relativePath": "src/js/components/DateTime.js",
+                "test": false,
+                "name": "DateTime.js"
+            },
+            {
+                "relativePath": "__tests__/components/DateTime-test.js",
+                "test": true,
+                "name": "DateTime-test.js"
+            },
+            {
+                "relativePath": "__tests__/components/__snapshots__/DateTime-test.js.snap",
+                "test": false,
+                "name": "DateTime-test.js.snap"
+            }
+        ],
+        "mainFile": "src/js/components/DateTime.js",
+        "origin": "AUTHORED"
+    },
+    "forms/form": {
+        "files": [
+            {
+                "relativePath": "src/js/components/Form.js",
+                "test": false,
+                "name": "Form.js"
+            },
+            {
+                "relativePath": "__tests__/components/Form-test.js",
+                "test": true,
+                "name": "Form-test.js"
+            },
+            {
+                "relativePath": "__tests__/components/__snapshots__/Form-test.js.snap",
+                "test": false,
+                "name": "Form-test.js.snap"
+            }
+        ],
+        "mainFile": "src/js/components/Form.js",
+        "origin": "AUTHORED"
+    },
+    "forms/form-field": {
+        "files": [
+            {
+                "relativePath": "src/js/components/FormField.js",
+                "test": false,
+                "name": "FormField.js"
+            },
+            {
+                "relativePath": "__tests__/components/FormField-test.js",
+                "test": true,
+                "name": "FormField-test.js"
+            },
+            {
+                "relativePath": "__tests__/components/__snapshots__/FormField-test.js.snap",
+                "test": false,
+                "name": "FormField-test.js.snap"
+            }
+        ],
+        "mainFile": "src/js/components/FormField.js",
+        "origin": "AUTHORED"
+    },
+    "forms/login-form": {
+        "files": [
+            {
+                "relativePath": "src/js/components/LoginForm.js",
+                "test": false,
+                "name": "LoginForm.js"
+            },
+            {
+                "relativePath": "__tests__/components/LoginForm-test.js",
+                "test": true,
+                "name": "LoginForm-test.js"
+            },
+            {
+                "relativePath": "__tests__/components/__snapshots__/LoginForm-test.js.snap",
+                "test": false,
+                "name": "LoginForm-test.js.snap"
+            }
+        ],
+        "mainFile": "src/js/components/LoginForm.js",
+        "origin": "AUTHORED"
+    },
+    "forms/number-input": {
+        "files": [
+            {
+                "relativePath": "src/js/components/NumberInput.js",
+                "test": false,
+                "name": "NumberInput.js"
+            },
+            {
+                "relativePath": "__tests__/components/NumberInput-test.js",
+                "test": true,
+                "name": "NumberInput-test.js"
+            },
+            {
+                "relativePath": "__tests__/components/__snapshots__/NumberInput-test.js.snap",
+                "test": false,
+                "name": "NumberInput-test.js.snap"
+            }
+        ],
+        "mainFile": "src/js/components/NumberInput.js",
+        "origin": "AUTHORED"
+    },
+    "forms/password-input": {
+        "files": [
+            {
+                "relativePath": "src/js/components/PasswordInput.js",
+                "test": false,
+                "name": "PasswordInput.js"
+            }
+        ],
+        "mainFile": "src/js/components/PasswordInput.js",
+        "origin": "AUTHORED"
+    },
+    "forms/radio-button": {
+        "files": [
+            {
+                "relativePath": "src/js/components/RadioButton.js",
+                "test": false,
+                "name": "RadioButton.js"
+            },
+            {
+                "relativePath": "__tests__/components/RadioButton-test.js",
+                "test": true,
+                "name": "RadioButton-test.js"
+            },
+            {
+                "relativePath": "__tests__/components/__snapshots__/RadioButton-test.js.snap",
+                "test": false,
+                "name": "RadioButton-test.js.snap"
+            }
+        ],
+        "mainFile": "src/js/components/RadioButton.js",
+        "origin": "AUTHORED"
+    },
+    "forms/search-input": {
+        "files": [
+            {
+                "relativePath": "src/js/components/SearchInput.js",
+                "test": false,
+                "name": "SearchInput.js"
+            },
+            {
+                "relativePath": "__tests__/components/SearchInput-test.js",
+                "test": true,
+                "name": "SearchInput-test.js"
+            },
+            {
+                "relativePath": "__tests__/components/__snapshots__/SearchInput-test.js.snap",
+                "test": false,
+                "name": "SearchInput-test.js.snap"
+            }
+        ],
+        "mainFile": "src/js/components/SearchInput.js",
+        "origin": "AUTHORED"
+    },
+    "forms/select": {
+        "files": [
+            {
+                "relativePath": "src/js/components/Select.js",
+                "test": false,
+                "name": "Select.js"
+            },
+            {
+                "relativePath": "__tests__/components/Select-test.js",
+                "test": true,
+                "name": "Select-test.js"
+            },
+            {
+                "relativePath": "__tests__/components/__snapshots__/Select-test.js.snap",
+                "test": false,
+                "name": "Select-test.js.snap"
+            }
+        ],
+        "mainFile": "src/js/components/Select.js",
+        "origin": "AUTHORED"
+    },
+    "forms/text-input": {
+        "files": [
+            {
+                "relativePath": "src/js/components/TextInput.js",
+                "test": false,
+                "name": "TextInput.js"
+            },
+            {
+                "relativePath": "__tests__/components/TextInput-test.js",
+                "test": true,
+                "name": "TextInput-test.js"
+            },
+            {
+                "relativePath": "__tests__/components/__snapshots__/TextInput-test.js.snap",
+                "test": false,
+                "name": "TextInput-test.js.snap"
+            }
+        ],
         "origin": "AUTHORED",
-        "mainFile": "src/js/components/Tip.js"
+        "mainFile": "src/js/components/TextInput.js"
     }
 }

@@ -1,0 +1,147 @@
+"status/blank": {
+        "files": [
+            {
+                "relativePath": "src/js/components/icons/status/Blank.js",
+                "test": false,
+                "name": "Blank.js"
+            },
+            {
+                "relativePath": "__tests__/components/icons/status/__snapshots__/Blank-test.js.snap",
+                "test": false,
+                "name": "Blank-test.js.snap"
+            },
+            {
+                "relativePath": "__tests__/components/icons/status/Blank-test.js",
+                "test": true,
+                "name": "Blank-test.js"
+            }
+        ],
+        "mainFile": "src/js/components/icons/status/Blank.js",
+        "origin": "AUTHORED"
+    },
+    "status/critical-status": {
+        "files": [
+            {
+                "relativePath": "src/js/components/icons/status/CriticalStatus.js",
+                "test": false,
+                "name": "CriticalStatus.js"
+            },
+            {
+                "relativePath": "__tests__/components/icons/status/__snapshots__/CriticalStatus-test.js.snap",
+                "test": false,
+                "name": "CriticalStatus-test.js.snap"
+            },
+            {
+                "relativePath": "__tests__/components/icons/status/CriticalStatus-test.js",
+                "test": true,
+                "name": "CriticalStatus-test.js"
+            }
+        ],
+        "mainFile": "src/js/components/icons/status/CriticalStatus.js",
+        "origin": "AUTHORED"
+    },
+    "status/disabled": {
+        "files": [
+            {
+                "relativePath": "src/js/components/icons/status/Disabled.js",
+                "test": false,
+                "name": "Disabled.js"
+            },
+            {
+                "relativePath": "__tests__/components/icons/status/__snapshots__/Disabled-test.js.snap",
+                "test": false,
+                "name": "Disabled-test.js.snap"
+            },
+            {
+                "relativePath": "__tests__/components/icons/status/Disabled-test.js",
+                "test": true,
+                "name": "Disabled-test.js"
+            }
+        ],
+        "mainFile": "src/js/components/icons/status/Disabled.js",
+        "origin": "AUTHORED"
+    },
+    "status/label": {
+        "files": [
+            {
+                "relativePath": "src/js/components/icons/status/Label.js",
+                "test": false,
+                "name": "Label.js"
+            },
+            {
+                "relativePath": "__tests__/components/icons/status/__snapshots__/Label-test.js.snap",
+                "test": false,
+                "name": "Label-test.js.snap"
+            },
+            {
+                "relativePath": "__tests__/components/icons/status/Label-test.js",
+                "test": true,
+                "name": "Label-test.js"
+            }
+        ],
+        "mainFile": "src/js/components/icons/status/Label.js",
+        "origin": "AUTHORED"
+    },
+    "status/ok": {
+        "files": [
+            {
+                "relativePath": "src/js/components/icons/status/OK.js",
+                "test": false,
+                "name": "OK.js"
+            },
+            {
+                "relativePath": "__tests__/components/icons/status/__snapshots__/OK-test.js.snap",
+                "test": false,
+                "name": "OK-test.js.snap"
+            },
+            {
+                "relativePath": "__tests__/components/icons/status/OK-test.js",
+                "test": true,
+                "name": "OK-test.js"
+            }
+        ],
+        "mainFile": "src/js/components/icons/status/OK.js",
+        "origin": "AUTHORED"
+    },
+    "status/unknown": {
+        "files": [
+            {
+                "relativePath": "src/js/components/icons/status/Unknown.js",
+                "test": false,
+                "name": "Unknown.js"
+            },
+            {
+                "relativePath": "__tests__/components/icons/status/__snapshots__/Unknown-test.js.snap",
+                "test": false,
+                "name": "Unknown-test.js.snap"
+            },
+            {
+                "relativePath": "__tests__/components/icons/status/Unknown-test.js",
+                "test": true,
+                "name": "Unknown-test.js"
+            }
+        ],
+        "mainFile": "src/js/components/icons/status/Unknown.js",
+        "origin": "AUTHORED"
+    },
+    "status/warning": {
+        "files": [
+            {
+                "relativePath": "src/js/components/icons/status/Warning.js",
+                "test": false,
+                "name": "Warning.js"
+            },
+            {
+                "relativePath": "__tests__/components/icons/status/__snapshots__/Warning-test.js.snap",
+                "test": false,
+                "name": "Warning-test.js.snap"
+            },
+            {
+                "relativePath": "__tests__/components/icons/status/Warning-test.js",
+                "test": true,
+                "name": "Warning-test.js"
+            }
+        ],
+        "origin": "AUTHORED",
+        "mainFile": "src/js/components/icons/status/Warning.js"
+    }

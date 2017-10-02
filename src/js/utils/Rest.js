@@ -1,3 +1,25 @@
+/**
+ * @description Utility functions for performing REST calls. Applications that interact with REST APIs should use fetch andpromises. This Rest module provides a few helper functions along the way.
+ * 
+ * @example 
+ * 
+ * import { headers, buildQuery, processStatus } from 'grommet/utils/Rest';
+ * 
+ * export default class MyComponent extends Component {
+ * 
+ *   _getData (filters) {
+ *     const query = buildQuery(filters);
+ *     const options = { method: 'GET', headers: { ...headers, Auth: _token };
+ *     fetch(`/rest/index/resources${query}`, options)
+ *     .then(processStatus)
+ *     .then(response => response.json())
+ *     .then(result => this.setState({ result: result, error: undefined }))
+ *     .catch(error => this.setState({ result: undefined, error: error }));
+ *   }
+ * 
+ * })
+ */
+
 // (C) Copyright 2014-2016 Hewlett Packard Enterprise Development LP
 
 export const headers = {
@@ -26,6 +48,15 @@ export function buildParams (object) {
   }
   return params;
 }
+
+/**
+ * 
+ * @property {function} buildParams - Converts object to parameter array of strings of name=URI-encoded-value. Handles array values.
+ * 
+ * @property {function} buildQuery - Calls buildParams if passed an object. Then joins the params array with '&' and adds a '?' prefix if needed
+ * 
+ * @property {function} processStatus - For use in a promisechain. Rejects promise if response is not ok.
+ */
 
 // joins params array and adds '?' prefix if needed
 export function buildQuery (object) {

@@ -7401,7 +7401,106 @@
                 "name": "SocialShare-test.js.snap"
             }
         ],
+        "mainFile": "src/js/components/SocialShare.js",
+        "origin": "AUTHORED"
+    },
+    "media/carousel": {
+        "files": [
+            {
+                "relativePath": "src/js/components/Carousel.js",
+                "test": false,
+                "name": "Carousel.js"
+            },
+            {
+                "relativePath": "__tests__/components/Carousel-test.js",
+                "test": true,
+                "name": "Carousel-test.js"
+            },
+            {
+                "relativePath": "__tests__/components/__snapshots__/Carousel-test.js.snap",
+                "test": false,
+                "name": "Carousel-test.js.snap"
+            }
+        ],
+        "mainFile": "src/js/components/Carousel.js",
+        "origin": "AUTHORED"
+    },
+    "media/image": {
+        "files": [
+            {
+                "relativePath": "src/js/components/Image.js",
+                "test": false,
+                "name": "Image.js"
+            },
+            {
+                "relativePath": "__tests__/components/Image-test.js",
+                "test": true,
+                "name": "Image-test.js"
+            },
+            {
+                "relativePath": "__tests__/components/__snapshots__/Image-test.js.snap",
+                "test": false,
+                "name": "Image-test.js.snap"
+            }
+        ],
+        "mainFile": "src/js/components/Image.js",
+        "origin": "AUTHORED"
+    },
+    "media/video": {
+        "files": [
+            {
+                "relativePath": "src/js/components/Video.js",
+                "test": false,
+                "name": "Video.js"
+            },
+            {
+                "relativePath": "__tests__/components/Video-test.js",
+                "test": true,
+                "name": "Video-test.js"
+            },
+            {
+                "relativePath": "__tests__/components/__snapshots__/Video-test.js.snap",
+                "test": false,
+                "name": "Video-test.js.snap"
+            },
+            {
+                "relativePath": "src/js/components/video/Controls.js",
+                "test": false,
+                "name": "Controls.js"
+            },
+            {
+                "relativePath": "src/js/components/video/FullscreenButton.js",
+                "test": false,
+                "name": "FullscreenButton.js"
+            },
+            {
+                "relativePath": "src/js/components/video/Overlay.js",
+                "test": false,
+                "name": "Overlay.js"
+            },
+            {
+                "relativePath": "src/js/components/video/PlayButton.js",
+                "test": false,
+                "name": "PlayButton.js"
+            },
+            {
+                "relativePath": "src/js/components/video/ProgressBar.js",
+                "test": false,
+                "name": "ProgressBar.js"
+            },
+            {
+                "relativePath": "src/js/components/video/Share.js",
+                "test": false,
+                "name": "Share.js"
+            },
+            {
+                "relativePath": "src/js/components/video/Time.js",
+                "test": false,
+                "name": "Time.js"
+            }
+        ],
+        "mainFile": "src/js/components/Video.js",
         "origin": "AUTHORED",
-        "mainFile": "src/js/components/SocialShare.js"
+        "mainDistFile": "dist/src/js/components/Video.js"
     }
 }

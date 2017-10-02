@@ -7035,7 +7035,7 @@
             },
             {
                 "relativePath": "__tests__/components/__snapshots__/Table-test.js.snap",
-                "test": true,
+                "test": false,
                 "name": "Table-test.js.snap"
             }
         ],
@@ -7056,7 +7056,7 @@
             },
             {
                 "relativePath": "__tests__/components/__snapshots__/TableHeader-test.js.snap",
-                "test": true,
+                "test": false,
                 "name": "TableHeader-test.js.snap"
             }
         ],
@@ -7077,7 +7077,7 @@
             },
             {
                 "relativePath": "__tests__/components/__snapshots__/Tiles-test.js.snap",
-                "test": true,
+                "test": false,
                 "name": "Tiles-test.js.snap"
             }
         ],
@@ -7230,7 +7230,7 @@
             },
             {
                 "relativePath": "__tests__/components/__snapshots__/Chart-test.js.snap",
-                "test": true,
+                "test": false,
                 "name": "Chart-test.js.snap"
             },
             {
@@ -7271,7 +7271,7 @@
             },
             {
                 "relativePath": "__tests__/components/__snapshots__/Distribution-test.js.snap",
-                "test": true,
+                "test": false,
                 "name": "Distribution-test.js.snap"
             }
         ],
@@ -7292,7 +7292,7 @@
             },
             {
                 "relativePath": "__tests__/components/__snapshots__/Legend-test.js.snap",
-                "test": true,
+                "test": false,
                 "name": "Legend-test.js.snap"
             }
         ],
@@ -7313,7 +7313,7 @@
             },
             {
                 "relativePath": "__tests__/components/__snapshots__/Map-test.js.snap",
-                "test": true,
+                "test": false,
                 "name": "Map-test.js.snap"
             }
         ],
@@ -7334,7 +7334,7 @@
             },
             {
                 "relativePath": "__tests__/components/__snapshots__/SunBurst-test.js.snap",
-                "test": true,
+                "test": false,
                 "name": "SunBurst-test.js.snap"
             }
         ],
@@ -7355,7 +7355,7 @@
             },
             {
                 "relativePath": "__tests__/components/__snapshots__/Topology-test.js.snap",
-                "test": true,
+                "test": false,
                 "name": "Topology-test.js.snap"
             }
         ],
@@ -7376,7 +7376,7 @@
             },
             {
                 "relativePath": "__tests__/components/__snapshots__/WorldMap-test.js.snap",
-                "test": true,
+                "test": false,
                 "name": "WorldMap-test.js.snap"
             }
         ],

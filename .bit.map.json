@@ -7380,7 +7380,28 @@
                 "name": "WorldMap-test.js.snap"
             }
         ],
+        "mainFile": "src/js/components/WorldMap.js",
+        "origin": "AUTHORED"
+    },
+    "icons/social-share": {
+        "files": [
+            {
+                "relativePath": "src/js/components/SocialShare.js",
+                "test": false,
+                "name": "SocialShare.js"
+            },
+            {
+                "relativePath": "__tests__/components/SocialShare-test.js",
+                "test": true,
+                "name": "SocialShare-test.js"
+            },
+            {
+                "relativePath": "__tests__/components/__snapshots__/SocialShare-test.js.snap",
+                "test": false,
+                "name": "SocialShare-test.js.snap"
+            }
+        ],
         "origin": "AUTHORED",
-        "mainFile": "src/js/components/WorldMap.js"
+        "mainFile": "src/js/components/SocialShare.js"
     }
 }

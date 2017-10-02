@@ -7092,7 +7092,295 @@
                 "name": "Tile.js"
             }
         ],
+        "mainFile": "src/js/components/Tile.js",
+        "origin": "AUTHORED"
+    },
+    "visualization/chart-area": {
+        "files": [
+            {
+                "relativePath": "src/js/components/chart/Area.js",
+                "test": false,
+                "name": "Area.js"
+            }
+        ],
+        "mainFile": "src/js/components/chart/Area.js",
+        "origin": "AUTHORED"
+    },
+    "visualization/chart-axis": {
+        "files": [
+            {
+                "relativePath": "src/js/components/chart/Axis.js",
+                "test": false,
+                "name": "Axis.js"
+            }
+        ],
+        "mainFile": "src/js/components/chart/Axis.js",
+        "origin": "AUTHORED"
+    },
+    "visualization/chart-bar": {
+        "files": [
+            {
+                "relativePath": "src/js/components/chart/Bar.js",
+                "test": false,
+                "name": "Bar.js"
+            }
+        ],
+        "mainFile": "src/js/components/chart/Bar.js",
+        "origin": "AUTHORED"
+    },
+    "visualization/chart-base": {
+        "files": [
+            {
+                "relativePath": "src/js/components/chart/Base.js",
+                "test": false,
+                "name": "Base.js"
+            }
+        ],
+        "mainFile": "src/js/components/chart/Base.js",
+        "origin": "AUTHORED"
+    },
+    "visualization/chart-grid": {
+        "files": [
+            {
+                "relativePath": "src/js/components/chart/Grid.js",
+                "test": false,
+                "name": "Grid.js"
+            }
+        ],
+        "mainFile": "src/js/components/chart/Grid.js",
+        "origin": "AUTHORED"
+    },
+    "visualization/chart-hotspots": {
+        "files": [
+            {
+                "relativePath": "src/js/components/chart/HotSpots.js",
+                "test": false,
+                "name": "HotSpots.js"
+            }
+        ],
+        "mainFile": "src/js/components/chart/HotSpots.js",
+        "origin": "AUTHORED"
+    },
+    "visualization/chart-layers": {
+        "files": [
+            {
+                "relativePath": "src/js/components/chart/Layers.js",
+                "test": false,
+                "name": "Layers.js"
+            }
+        ],
+        "mainFile": "src/js/components/chart/Layers.js",
+        "origin": "AUTHORED"
+    },
+    "visualization/chart-line": {
+        "files": [
+            {
+                "relativePath": "src/js/components/chart/Line.js",
+                "test": false,
+                "name": "Line.js"
+            }
+        ],
+        "mainFile": "src/js/components/chart/Line.js",
+        "origin": "AUTHORED"
+    },
+    "visualization/chart-marker": {
+        "files": [
+            {
+                "relativePath": "src/js/components/chart/Marker.js",
+                "test": false,
+                "name": "Marker.js"
+            }
+        ],
+        "mainFile": "src/js/components/chart/Marker.js",
+        "origin": "AUTHORED"
+    },
+    "visualization/chart-marker-label": {
+        "files": [
+            {
+                "relativePath": "src/js/components/chart/MarkerLabel.js",
+                "test": false,
+                "name": "MarkerLabel.js"
+            }
+        ],
+        "mainFile": "src/js/components/chart/MarkerLabel.js",
+        "origin": "AUTHORED"
+    },
+    "visualization/chart-range": {
+        "files": [
+            {
+                "relativePath": "src/js/components/chart/Range.js",
+                "test": false,
+                "name": "Range.js"
+            }
+        ],
+        "mainFile": "src/js/components/chart/Range.js",
+        "origin": "AUTHORED"
+    },
+    "visualization/chart": {
+        "files": [
+            {
+                "relativePath": "src/js/components/chart/Chart.js",
+                "test": false,
+                "name": "Chart.js"
+            },
+            {
+                "relativePath": "__tests__/components/Chart-test.js",
+                "test": true,
+                "name": "Chart-test.js"
+            },
+            {
+                "relativePath": "__tests__/components/__snapshots__/Chart-test.js.snap",
+                "test": true,
+                "name": "Chart-test.js.snap"
+            },
+            {
+                "relativePath": "src/js/components/chart/Graph.js",
+                "test": false,
+                "name": "Graph.js"
+            },
+            {
+                "relativePath": "src/js/components/chart/index.js",
+                "test": false,
+                "name": "index.js"
+            },
+            {
+                "relativePath": "src/js/components/chart/normalize.js",
+                "test": false,
+                "name": "normalize.js"
+            },
+            {
+                "relativePath": "src/js/components/chart/utils.js",
+                "test": false,
+                "name": "utils.js"
+            }
+        ],
+        "mainFile": "src/js/components/chart/index.js",
+        "origin": "AUTHORED"
+    },
+    "visualization/distribution": {
+        "files": [
+            {
+                "relativePath": "src/js/components/Distribution.js",
+                "test": false,
+                "name": "Distribution.js"
+            },
+            {
+                "relativePath": "__tests__/components/Distribution-test.js",
+                "test": true,
+                "name": "Distribution-test.js"
+            },
+            {
+                "relativePath": "__tests__/components/__snapshots__/Distribution-test.js.snap",
+                "test": true,
+                "name": "Distribution-test.js.snap"
+            }
+        ],
+        "mainFile": "src/js/components/Distribution.js",
+        "origin": "AUTHORED"
+    },
+    "visualization/legend": {
+        "files": [
+            {
+                "relativePath": "src/js/components/Legend.js",
+                "test": false,
+                "name": "Legend.js"
+            },
+            {
+                "relativePath": "__tests__/components/Legend-test.js",
+                "test": true,
+                "name": "Legend-test.js"
+            },
+            {
+                "relativePath": "__tests__/components/__snapshots__/Legend-test.js.snap",
+                "test": true,
+                "name": "Legend-test.js.snap"
+            }
+        ],
+        "mainFile": "src/js/components/Legend.js",
+        "origin": "AUTHORED"
+    },
+    "visualization/map": {
+        "files": [
+            {
+                "relativePath": "src/js/components/Map.js",
+                "test": false,
+                "name": "Map.js"
+            },
+            {
+                "relativePath": "__tests__/components/Map-test.js",
+                "test": true,
+                "name": "Map-test.js"
+            },
+            {
+                "relativePath": "__tests__/components/__snapshots__/Map-test.js.snap",
+                "test": true,
+                "name": "Map-test.js.snap"
+            }
+        ],
+        "mainFile": "src/js/components/Map.js",
+        "origin": "AUTHORED"
+    },
+    "visualization/sun-burst": {
+        "files": [
+            {
+                "relativePath": "src/js/components/SunBurst.js",
+                "test": false,
+                "name": "SunBurst.js"
+            },
+            {
+                "relativePath": "__tests__/components/SunBurst-test.js",
+                "test": true,
+                "name": "SunBurst-test.js"
+            },
+            {
+                "relativePath": "__tests__/components/__snapshots__/SunBurst-test.js.snap",
+                "test": true,
+                "name": "SunBurst-test.js.snap"
+            }
+        ],
+        "mainFile": "src/js/components/SunBurst.js",
+        "origin": "AUTHORED"
+    },
+    "visualization/topology": {
+        "files": [
+            {
+                "relativePath": "src/js/components/Topology.js",
+                "test": false,
+                "name": "Topology.js"
+            },
+            {
+                "relativePath": "__tests__/components/Topology-test.js",
+                "test": true,
+                "name": "Topology-test.js"
+            },
+            {
+                "relativePath": "__tests__/components/__snapshots__/Topology-test.js.snap",
+                "test": true,
+                "name": "Topology-test.js.snap"
+            }
+        ],
+        "mainFile": "src/js/components/Topology.js",
+        "origin": "AUTHORED"
+    },
+    "visualization/world-map": {
+        "files": [
+            {
+                "relativePath": "src/js/components/WorldMap.js",
+                "test": false,
+                "name": "WorldMap.js"
+            },
+            {
+                "relativePath": "__tests__/components/WorldMap-test.js",
+                "test": true,
+                "name": "WorldMap-test.js"
+            },
+            {
+                "relativePath": "__tests__/components/__snapshots__/WorldMap-test.js.snap",
+                "test": true,
+                "name": "WorldMap-test.js.snap"
+            }
+        ],
         "origin": "AUTHORED",
-        "mainFile": "src/js/components/Tile.js"
+        "mainFile": "src/js/components/WorldMap.js"
     }
 }

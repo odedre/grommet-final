@@ -5900,8 +5900,10 @@ rest:
         "origin": "AUTHORED"
     },
 
+---------------------
+ui:
 
-"grommet.react-components/status/blank@1": {
+"status/blank": {
         "files": [
             {
                 "relativePath": "src/js/components/icons/status/Blank.js",
@@ -5922,7 +5924,7 @@ rest:
         "mainFile": "src/js/components/icons/status/Blank.js",
         "origin": "AUTHORED"
     },
-    "grommet.react-components/status/disabled@1": {
+    "status/disabled": {
         "files": [
             {
                 "relativePath": "src/js/components/icons/status/Disabled.js",
@@ -5943,7 +5945,7 @@ rest:
         "mainFile": "src/js/components/icons/status/Disabled.js",
         "origin": "AUTHORED"
     },
-    "grommet.react-components/status/unknown@1": {
+    "status/unknown": {
         "files": [
             {
                 "relativePath": "src/js/components/icons/status/Unknown.js",
@@ -5964,7 +5966,7 @@ rest:
         "mainFile": "src/js/components/icons/status/Unknown.js",
         "origin": "AUTHORED"
     },
-    "grommet.react-components/status/critical-status@1": {
+    "status/critical-status": {
         "files": [
             {
                 "relativePath": "src/js/components/icons/status/CriticalStatus.js",
@@ -5985,7 +5987,7 @@ rest:
         "mainFile": "src/js/components/icons/status/CriticalStatus.js",
         "origin": "AUTHORED"
     },
-    "grommet.react-components/status/ok@1": {
+    "status/ok": {
         "files": [
             {
                 "relativePath": "src/js/components/icons/status/OK.js",
@@ -6006,7 +6008,7 @@ rest:
         "mainFile": "src/js/components/icons/status/OK.js",
         "origin": "AUTHORED"
     },
-    "grommet.react-components/status/label@1": {
+    "status/label": {
         "files": [
             {
                 "relativePath": "src/js/components/icons/status/Label.js",
@@ -6027,7 +6029,7 @@ rest:
         "mainFile": "src/js/components/icons/status/Label.js",
         "origin": "AUTHORED"
     },
-    "grommet.react-components/status/warning@1": {
+    "status/warning": {
         "files": [
             {
                 "relativePath": "src/js/components/icons/status/Warning.js",
@@ -7533,7 +7535,7 @@ rest:
         "origin": "AUTHORED",
         "mainFile": "src/js/components/Animate.js"
     }
-"grommet.utils/mocks/fake-icon@1": {
+"internal/fake-icon@1": {
         "files": [
             {
                 "relativePath": "__tests__/mocks/FakeIcon.js",
@@ -7544,7 +7546,7 @@ rest:
         "mainFile": "__tests__/mocks/FakeIcon.js",
         "origin": "AUTHORED"
     },
-    "grommet.utils/test-utils/renderer-finder@1": {
+    "internal/renderer-finder@1": {
         "files": [
             {
                 "relativePath": "__tests__/utils/renderer-finder.js",
@@ -13018,3 +13020,606 @@ rest:
         "mainFile": "src/js/components/icons/base/ZoomOut.js",
         "origin": "AUTHORED"
     }
+
+    ----------------------------------------------------------------
+
+script:
+
+bit export grommet.icons icons-base/copy & 
+bit export grommet.icons icons-base/platform-solaris & 
+bit export grommet.icons icons-base/impact & 
+bit export grommet.icons icons-base/brand-hpe-stack-centered & 
+bit export grommet.icons icons-base/platform-chrome & 
+bit export grommet.icons icons-base/platform-windows & 
+bit export grommet.icons icons-base/toast & 
+bit export grommet.icons icons-base/cart & 
+bit export grommet.icons icons-base/globe & 
+bit export grommet.icons icons-base/cafeteria & 
+bit export grommet.icons icons-base/tag & 
+bit export grommet.icons icons-base/access-accessibility &
+ 
+bit export grommet.icons icons-base/new-window & 
+bit export grommet.icons icons-base/microphone & 
+bit export grommet.icons icons-base/platform-fedora & 
+bit export grommet.icons icons-base/play-fill & 
+bit export grommet.icons icons-base/object-group & 
+bit export grommet.icons icons-base/drag & 
+bit export grommet.icons icons-base/target & 
+bit export grommet.icons icons-base/brand-hpe-stack & 
+bit export grommet.icons icons-base/brand-codepen-try & 
+bit export grommet.icons icons-base/social-dropbox & 
+bit export grommet.icons icons-base/map & 
+bit export grommet.icons icons-base/platform-redhat & 
+
+bit export grommet.icons icons-base/document-ppt & 
+bit export grommet.icons icons-base/duplicate & 
+bit export grommet.icons icons-base/connect & 
+bit export grommet.icons icons-base/cluster & 
+bit export grommet.icons icons-base/brush & 
+bit export grommet.icons icons-base/social-facebook-option & 
+bit export grommet.icons icons-base/dislike & 
+bit export grommet.icons icons-base/document & 
+bit export grommet.icons icons-base/favorite & 
+bit export grommet.icons icons-base/cube & 
+bit export grommet.icons icons-base/social-mastercard & 
+bit export grommet.icons icons-base/contact-info & 
+bit export grommet.icons icons-base/cloud-computer & 
+bit export grommet.icons icons-base/form-previous & 
+bit export grommet.icons icons-base/document-excel & 
+bit export grommet.icons icons-base/deliver & 
+bit export grommet.icons icons-base/user-settings & 
+bit export grommet.icons icons-base/scan & 
+bit export grommet.icons icons-base/edit & 
+bit export grommet.icons icons-base/compare &
+
+bit export grommet.icons icons-base/social-skype & 
+bit export grommet.icons icons-base/social-slack & 
+bit export grommet.icons icons-base/platform-firefox & 
+bit export grommet.icons icons-base/platform-raspberry & 
+bit export grommet.icons icons-base/nodes & 
+bit export grommet.icons icons-base/host-maintenance & 
+bit export grommet.icons icons-base/grow & 
+bit export grommet.icons icons-base/add-circle & 
+bit export grommet.icons icons-base/clone & 
+bit export grommet.icons icons-base/shield-security & 
+bit export grommet.icons icons-base/form-upload & 
+bit export grommet.icons icons-base/checkmark & 
+bit export grommet.icons icons-base/iteration & 
+bit export grommet.icons icons-base/link-down & 
+bit export grommet.icons icons-base/social-github & 
+bit export grommet.icons icons-base/line-chart & 
+bit export grommet.icons icons-base/sidebar & 
+bit export grommet.icons icons-base/domain & 
+bit export grommet.icons icons-base/platform-internet-explorer & 
+
+bit export grommet.icons icons-base/test & 
+bit export grommet.icons icons-base/aid & 
+bit export grommet.icons icons-base/run & 
+
+bit export grommet.icons icons-base/mail & 
+bit export grommet.icons icons-base/link-up & 
+bit export grommet.icons icons-base/descend & 
+bit export grommet.icons icons-base/zoom-out & 
+bit export grommet.icons icons-base/inspect & 
+bit export grommet.icons icons-base/escalator & 
+
+bit export grommet.icons icons-base/brand-hpe-labs-insignia-outline & 
+bit export grommet.icons icons-base/platform-swift & 
+bit export grommet.icons icons-base/folder-open & 
+bit export grommet.icons icons-base/document-csv & 
+bit export grommet.icons icons-base/install-option & 
+bit export grommet.icons icons-base/waypoint & 
+bit export grommet.icons icons-base/info & 
+bit export grommet.icons icons-base/link-next & 
+bit export grommet.icons icons-base/star & 
+bit export grommet.icons icons-base/restroom & 
+bit export grommet.icons icons-base/caret-previous & 
+bit export grommet.icons icons-base/caret-up & 
+bit export grommet.icons icons-base/flag & 
+bit export grommet.icons icons-base/standards-connectivity & 
+
+bit export grommet.icons icons-base/unlink & 
+bit export grommet.icons icons-base/form-search & 
+bit export grommet.icons icons-base/grid & 
+bit export grommet.icons icons-base/channel & 
+bit export grommet.icons icons-base/pause-fill & 
+bit export grommet.icons icons-base/more & 
+bit export grommet.icons icons-base/basket & 
+bit export grommet.icons icons-base/currency & 
+bit export grommet.icons icons-base/platform-hpi & 
+bit export grommet.icons icons-base/announce & 
+bit export grommet.icons icons-base/platform-opera & 
+bit export grommet.icons icons-base/language & 
+bit export grommet.icons icons-base/document-cloud & 
+bit export grommet.icons icons-base/splits & 
+
+bit export grommet.icons icons-base/history & 
+bit export grommet.icons icons-base/forward-ten & 
+bit export grommet.icons icons-base/platform-apple & 
+bit export grommet.icons icons-base/platform-centos & 
+bit export grommet.icons icons-base/document-notes & 
+bit export grommet.icons icons-base/access-volume-control & 
+bit export grommet.icons icons-base/form-close & 
+bit export grommet.icons icons-base/satellite & 
+bit export grommet.icons icons-base/user-manager & 
+bit export grommet.icons icons-base/platform-windows-legacy & 
+bit export grommet.icons icons-base/social-pinterest & 
+bit export grommet.icons icons-base/music & 
+bit export grommet.icons icons-base/search-advanced & 
+bit export grommet.icons icons-base/calendar & 
+bit export grommet.icons icons-base/briefcase & 
+bit export grommet.icons icons-base/eject & 
+
+bit export grommet.icons icons-base/form-previous-link & 
+bit export grommet.icons icons-base/magic & 
+bit export grommet.icons icons-base/rewind & 
+bit export grommet.icons icons-base/attraction & 
+bit export grommet.icons icons-base/social-google-plus & 
+bit export grommet.icons icons-base/clear & 
+bit export grommet.icons icons-base/form-schedule & 
+bit export grommet.icons icons-base/checkbox-selected & 
+bit export grommet.icons icons-base/form-attachment & 
+bit export grommet.icons icons-base/menu & 
+bit export grommet.icons icons-base/user & 
+bit export grommet.icons icons-base/brand-grommet-outline & 
+bit export grommet.icons icons-base/aggregate & 
+bit export grommet.icons icons-base/street-view & 
+bit export grommet.icons icons-base/navigate & 
+bit export grommet.icons icons-base/document-windows & 
+
+bit export grommet.icons icons-base/technology & 
+bit export grommet.icons icons-base/access-wheelchair & 
+bit export grommet.icons icons-base/configure & 
+bit export grommet.icons icons-base/platform-aruba & 
+bit export grommet.icons icons-base/robot & 
+bit export grommet.icons icons-base/document-transfer & 
+bit export grommet.icons icons-base/system & 
+bit export grommet.icons icons-base/tree-option & 
+bit export grommet.icons icons-base/standards-performance & 
+bit export grommet.icons icons-base/notification & 
+bit export grommet.icons icons-base/cloud & 
+bit export grommet.icons icons-base/shop & 
+bit export grommet.icons icons-base/database & 
+bit export grommet.icons icons-base/car & 
+bit export grommet.icons icons-base/platform-dos & 
+bit export grommet.icons icons-base/social-youtube & 
+bit export grommet.icons icons-base/document-performance & 
+bit export grommet.icons icons-base/platform-heroku & 
+bit export grommet.icons icons-base/form-cut & 
+bit export grommet.icons icons-base/power & 
+
+bit export grommet.icons icons-base/gamepad & 
+bit export grommet.icons icons-base/access-tty & 
+bit export grommet.icons icons-base/document-missing & 
+bit export grommet.icons icons-base/pin & 
+bit export grommet.icons icons-base/text-wrap & 
+bit export grommet.icons icons-base/schedule-play & 
+bit export grommet.icons icons-base/manual & 
+bit export grommet.icons icons-base/user-police & 
+bit export grommet.icons icons-base/bookmark & 
+bit export grommet.icons icons-base/social-twitter & 
+bit export grommet.icons icons-base/resources & 
+bit export grommet.icons icons-base/document-store & 
+bit export grommet.icons icons-base/troubleshoot & 
+bit export grommet.icons icons-base/share & 
+bit export grommet.icons icons-base/compass & 
+bit export grommet.icons icons-base/detach & 
+bit export grommet.icons icons-base/form-location & 
+bit export grommet.icons icons-base/play & 
+bit export grommet.icons icons-base/3d & 
+bit export grommet.icons icons-base/bar-chart & 
+
+bit export grommet.icons icons-base/apps & 
+bit export grommet.icons icons-base/document-threat & 
+bit export grommet.icons icons-base/social-stack-overflow & 
+bit export grommet.icons icons-base/social-mail & 
+bit export grommet.icons icons-base/tools & 
+bit export grommet.icons icons-base/platform-unixware & 
+bit export grommet.icons icons-base/layer & 
+bit export grommet.icons icons-base/terminal & 
+bit export grommet.icons icons-base/closed-caption & 
+bit export grommet.icons icons-base/brand-hpe-labs-insignia & 
+bit export grommet.icons icons-base/platform-onedrive & 
+bit export grommet.icons icons-base/contact & 
+bit export grommet.icons icons-base/cursor & 
+bit export grommet.icons icons-base/platform-mandriva & 
+bit export grommet.icons icons-base/risk & 
+
+bit export grommet.icons icons-base/social-bitcoin & 
+bit export grommet.icons icons-base/form-next & 
+bit export grommet.icons icons-base/platform-archlinux & 
+bit export grommet.icons icons-base/add-chapter & 
+bit export grommet.icons icons-base/form-add & 
+bit export grommet.icons icons-base/support & 
+bit export grommet.icons icons-base/next & 
+bit export grommet.icons icons-base/document-sound & 
+bit export grommet.icons icons-base/settigns-option & 
+bit export grommet.icons icons-base/gallery & 
+bit export grommet.icons icons-base/link-bottom & 
+bit export grommet.icons icons-base/overview & 
+bit export grommet.icons icons-base/download & 
+bit export grommet.icons icons-base/document-image & 
+bit export grommet.icons icons-base/storage & 
+bit export grommet.icons icons-base/refresh & 
+bit export grommet.icons icons-base/aed & 
+bit export grommet.icons icons-base/select & 
+bit export grommet.icons icons-base/form-edit & 
+bit export grommet.icons icons-base/form-down & 
+bit export grommet.icons icons-base/subtract & 
+bit export grommet.icons icons-base/user-expert & 
+
+bit export grommet.icons icons-base/platform-norton & 
+bit export grommet.icons icons-base/upgrade & 
+bit export grommet.icons icons-base/monitor & 
+bit export grommet.icons icons-base/platform-turbolinux & 
+bit export grommet.icons icons-base/bar & 
+bit export grommet.icons icons-base/fan & 
+bit export grommet.icons icons-base/circle-information & 
+bit export grommet.icons icons-base/cli & 
+bit export grommet.icons icons-base/platform-docker & 
+bit export grommet.icons icons-base/restroom-women & 
+bit export grommet.icons icons-base/validate & 
+bit export grommet.icons icons-base/previous & 
+bit export grommet.icons icons-base/bug & 
+bit export grommet.icons icons-base/platform-safari & 
+bit export grommet.icons icons-base/social-reddit & 
+bit export grommet.icons icons-base/stakeholder & 
+bit export grommet.icons icons-base/plan & 
+
+bit export grommet.icons icons-base/upload & 
+bit export grommet.icons icons-base/home & 
+bit export grommet.icons icons-base/services & 
+bit export grommet.icons icons-base/clear-option & 
+bit export grommet.icons icons-base/integration & 
+bit export grommet.icons icons-base/add & 
+bit export grommet.icons icons-base/emergency & 
+bit export grommet.icons icons-base/social-medium & 
+bit export grommet.icons icons-base/document-verified & 
+bit export grommet.icons icons-base/chapter-previous & 
+bit export grommet.icons icons-base/cloud-software & 
+bit export grommet.icons icons-base/document-user & 
+bit export grommet.icons icons-base/halt & 
+bit export grommet.icons icons-base/group & 
+bit export grommet.icons icons-base/document-pdf & 
+bit export grommet.icons icons-base/platform-reactjs & 
+bit export grommet.icons icons-base/subtract-circle & 
+bit export grommet.icons icons-base/resume & 
+
+bit export grommet.icons icons-base/schedule-new & 
+bit export grommet.icons icons-base/social-linkedin & 
+bit export grommet.icons icons-base/local & 
+bit export grommet.icons icons-base/link-top & 
+bit export grommet.icons icons-base/platform-safari-option & 
+bit export grommet.icons icons-base/dashboard & 
+bit export grommet.icons icons-base/baby & 
+bit export grommet.icons icons-base/finger-print & 
+bit export grommet.icons icons-base/trigger & 
+bit export grommet.icons icons-base/access-wheelchair-active & 
+bit export grommet.icons icons-base/access-ad & 
+bit export grommet.icons icons-base/top-corner & 
+bit export grommet.icons icons-base/access-assist-listening & 
+bit export grommet.icons icons-base/social-wordpress & 
+bit export grommet.icons icons-base/radial-selected & 
+bit export grommet.icons icons-base/expand & 
+bit export grommet.icons icons-base/update & 
+bit export grommet.icons icons-base/brand-grommet-path & 
+bit export grommet.icons icons-base/schedules & 
+bit export grommet.icons icons-base/blog & 
+
+bit export grommet.icons icons-base/virtual-machine & 
+bit export grommet.icons icons-base/back-ten & 
+bit export grommet.icons icons-base/document-txt & 
+bit export grommet.icons icons-base/location-pin & 
+bit export grommet.icons icons-base/help & 
+bit export grommet.icons icons-base/secure & 
+bit export grommet.icons icons-base/social-product-hunt & 
+bit export grommet.icons icons-base/filter & 
+bit export grommet.icons icons-base/multiple & 
+bit export grommet.icons icons-base/paint & 
+bit export grommet.icons icons-base/ice-cream & 
+bit export grommet.icons icons-base/social-creative-commons & 
+bit export grommet.icons icons-base/form-up & 
+bit export grommet.icons icons-base/document-exe & 
+bit export grommet.icons icons-base/archive & 
+bit export grommet.icons icons-base/cycle & 
+bit export grommet.icons icons-base/brand-hpe-element-path & 
+bit export grommet.icons icons-base/cloud-upload & 
+bit export grommet.icons icons-base/selection & 
+bit export grommet.icons icons-base/ticket & 
+bit export grommet.icons icons-base/test-desktop & 
+
+bit export grommet.icons icons-base/indicator & 
+bit export grommet.icons icons-base/link & 
+bit export grommet.icons icons-base/aid-option & 
+bit export grommet.icons icons-base/chat & 
+bit export grommet.icons icons-base/link-previous & 
+bit export grommet.icons icons-base/personal-computer & 
+bit export grommet.icons icons-base/brand-codepen-edit & 
+bit export grommet.icons icons-base/user-new & 
+bit export grommet.icons icons-base/chapter-next & 
+bit export grommet.icons icons-base/zoom-in & 
+bit export grommet.icons icons-base/user-female & 
+bit export grommet.icons icons-base/social-amex & 
+bit export grommet.icons icons-base/view & 
+bit export grommet.icons icons-base/brand-apple-app-store & 
+bit export grommet.icons icons-base/restroom-men & 
+bit export grommet.icons icons-base/transaction & 
+bit export grommet.icons icons-base/standards-css3 & 
+bit export grommet.icons icons-base/host & 
+bit export grommet.icons icons-base/settings-option & 
+bit export grommet.icons icons-base/article & 
+bit export grommet.icons icons-base/capacity & 
+
+bit export grommet.icons icons-base/standards-multimedia & 
+bit export grommet.icons icons-base/image & 
+bit export grommet.icons icons-base/form-calendar & 
+bit export grommet.icons icons-base/platform-edge & 
+bit export grommet.icons icons-base/document-locked & 
+bit export grommet.icons icons-base/search & 
+bit export grommet.icons icons-base/compliance & 
+bit export grommet.icons icons-base/access-sign & 
+bit export grommet.icons icons-base/revert & 
+bit export grommet.icons icons-base/steps-option & 
+bit export grommet.icons icons-base/gift & 
+bit export grommet.icons icons-base/platform-freebsd & 
+bit export grommet.icons icons-base/social-google-wallet & 
+bit export grommet.icons icons-base/launch & 
+bit export grommet.icons icons-base/optimize & 
+bit export grommet.icons icons-base/social-paypal & 
+bit export grommet.icons icons-base/document-config & 
+bit export grommet.icons icons-base/table & 
+
+bit export grommet.icons icons-base/platform-suse & 
+bit export grommet.icons icons-base/bottom-corner & 
+bit export grommet.icons icons-base/social-facebook & 
+bit export grommet.icons icons-base/money & 
+bit export grommet.icons icons-base/sort & 
+bit export grommet.icons icons-base/notes & 
+bit export grommet.icons icons-base/empty-circle & 
+bit export grommet.icons icons-base/checkbox & 
+bit export grommet.icons icons-base/document-time & 
+bit export grommet.icons icons-base/form-refresh & 
+bit export grommet.icons icons-base/columns & 
+bit export grommet.icons icons-base/restaurant & 
+bit export grommet.icons icons-base/social-linkedin-option & 
+bit export grommet.icons icons-base/circle-play & 
+bit export grommet.icons icons-base/bundle & 
+bit export grommet.icons icons-base/ascend & 
+bit export grommet.icons icons-base/close & 
+bit export grommet.icons icons-base/social-tumblr & 
+
+bit export grommet.icons icons-base/platform-hp & 
+bit export grommet.icons icons-base/form-lock & 
+bit export grommet.icons icons-base/platform-vmware & 
+bit export grommet.icons icons-base/inherit & 
+bit export grommet.icons icons-base/vm-maintenance & 
+bit export grommet.icons icons-base/user-worker & 
+bit export grommet.icons icons-base/standards-3d-effects & 
+bit export grommet.icons icons-base/object-ungroup & 
+bit export grommet.icons icons-base/catalog & 
+bit export grommet.icons icons-base/java & 
+bit export grommet.icons icons-base/workshop & 
+bit export grommet.icons icons-base/platform-android & 
+bit export grommet.icons icons-base/attachment & 
+bit export grommet.icons icons-base/split & 
+bit export grommet.icons icons-base/form-clock & 
+
+bit export grommet.icons icons-base/in-progress & 
+bit export grommet.icons icons-base/schedule & 
+bit export grommet.icons icons-base/folder-cycle & 
+bit export grommet.icons icons-base/volume-low & 
+bit export grommet.icons icons-base/shield & 
+bit export grommet.icons icons-base/platform-dropbox & 
+bit export grommet.icons icons-base/social-visa & 
+bit export grommet.icons icons-base/stop & 
+bit export grommet.icons icons-base/social-snapchat & 
+
+bit export grommet.icons icons-base/document-video & 
+bit export grommet.icons icons-base/social-amazon & 
+bit export grommet.icons icons-base/book & 
+bit export grommet.icons icons-base/new & 
+bit export grommet.icons icons-base/platform-amazon & 
+bit export grommet.icons icons-base/cloud-download & 
+bit export grommet.icons icons-base/circle-question & 
+bit export grommet.icons icons-base/inbox & 
+bit export grommet.icons icons-base/tip & 
+bit export grommet.icons icons-base/platform-sco & 
+bit export grommet.icons icons-base/drive-cage & 
+bit export grommet.icons icons-base/standards-sematics & 
+bit export grommet.icons icons-base/document-word & 
+bit export grommet.icons icons-base/standards-fireball & 
+bit export grommet.icons icons-base/like & 
+bit export grommet.icons icons-base/volume-mute & 
+bit export grommet.icons icons-base/rss & 
+bit export grommet.icons icons-base/note & 
+
+bit export grommet.icons icons-base/social-stripe & 
+bit export grommet.icons icons-base/task & 
+bit export grommet.icons icons-base/standards-offline-storage & 
+bit export grommet.icons icons-base/form-subtract & 
+bit export grommet.icons icons-base/social-codepen & 
+bit export grommet.icons icons-base/business-service & 
+bit export grommet.icons icons-base/camera & 
+bit export grommet.icons icons-base/tasks & 
+bit export grommet.icons icons-base/caret-down & 
+bit export grommet.icons icons-base/bus & 
+bit export grommet.icons icons-base/coat-check & 
+bit export grommet.icons icons-base/platform-oracle & 
+bit export grommet.icons icons-base/platform-debian & 
+bit export grommet.icons icons-base/diamond & 
+bit export grommet.icons icons-base/platform-hadoop & 
+bit export grommet.icons icons-base/document-upload & 
+bit export grommet.icons icons-base/social-instagram & 
+bit export grommet.icons icons-base/servers & 
+bit export grommet.icons icons-base/alert & 
+bit export grommet.icons icons-base/user-add & 
+
+bit export grommet.icons icons-base/deploy & 
+bit export grommet.icons icons-base/organization & 
+bit export grommet.icons icons-base/video & 
+bit export grommet.icons icons-base/accessible & 
+bit export grommet.icons icons-base/trophy & 
+bit export grommet.icons icons-base/pie-chart & 
+bit export grommet.icons icons-base/clipboard & 
+bit export grommet.icons icons-base/chapter-add & 
+bit export grommet.icons icons-base/unlock & 
+bit export grommet.icons icons-base/catalog-option & 
+bit export grommet.icons icons-base/install & 
+bit export grommet.icons icons-base/atm & 
+bit export grommet.icons icons-base/access-braille & 
+bit export grommet.icons icons-base/lock &
+
+bit export grommet.icons icons-base/actions & 
+bit export grommet.icons icons-base/send & 
+bit export grommet.icons icons-base/volume & 
+bit export grommet.icons icons-base/threats & 
+bit export grommet.icons icons-base/credit-card & 
+bit export grommet.icons icons-base/license & 
+bit export grommet.icons icons-base/mail-option & 
+bit export grommet.icons icons-base/elevator & 
+
+bit export grommet.icons icons-base/analytics & 
+bit export grommet.icons icons-base/action & 
+bit export grommet.icons icons-base/stop-fill & 
+bit export grommet.icons icons-base/standards-device & 
+bit export grommet.icons icons-base/fast-forward & 
+bit export grommet.icons icons-base/platform-ubuntu & 
+bit export grommet.icons icons-base/platform-mysql & 
+bit export grommet.icons icons-base/document-zip & 
+bit export grommet.icons icons-base/form-trash & 
+bit export grommet.icons icons-base/scorecard & 
+bit export grommet.icons icons-base/standards-html5 & 
+bit export grommet.icons icons-base/desktop & 
+bit export grommet.icons icons-base/social-vimeo & 
+bit export grommet.icons icons-base/pause & 
+bit export grommet.icons icons-base/document-rtf & 
+bit export grommet.icons icons-base/platform-google & 
+
+bit export grommet.icons icons-base/user-admin & 
+bit export grommet.icons icons-base/calculator & 
+bit export grommet.icons icons-base/document-download & 
+bit export grommet.icons icons-base/brand-hpe-element-outline & 
+bit export grommet.icons icons-base/cut & 
+bit export grommet.icons icons-base/achievement & 
+bit export grommet.icons icons-base/form-folder & 
+bit export grommet.icons icons-base/form-next-link & 
+bit export grommet.icons icons-base/print & 
+bit export grommet.icons icons-base/radial & 
+bit export grommet.icons icons-base/logout & 
+bit export grommet.icons icons-base/document-test & 
+bit export grommet.icons icons-base/server & 
+bit export grommet.icons icons-base/server-cluster & 
+
+bit export grommet.icons icons-base/document-text & 
+bit export grommet.icons icons-base/star-half & 
+bit export grommet.icons icons-base/steps & 
+bit export grommet.icons icons-base/pan & 
+bit export grommet.icons icons-base/up & 
+bit export grommet.icons icons-base/lounge & 
+bit export grommet.icons icons-base/code & 
+bit export grommet.icons icons-base/social-square & 
+bit export grommet.icons icons-base/trash & 
+bit export grommet.icons icons-base/alarm & 
+bit export grommet.icons icons-base/document-update & 
+bit export grommet.icons icons-base/brand-google-play & 
+bit export grommet.icons icons-base/platform-cloudlinux & 
+bit export grommet.icons icons-base/folder & 
+bit export grommet.icons icons-base/down & 
+bit export grommet.icons icons-base/form-filter & 
+bit export grommet.icons icons-base/caret-next & 
+bit export grommet.icons icons-base/social-vine & 
+
+bit export grommet.icons icons-base/location & 
+bit export grommet.icons icons-base/tree & 
+bit export grommet.icons icons-base/platform-pied-piper & 
+bit export grommet.icons icons-base/document-outlook & 
+bit export grommet.icons icons-base/service-play & 
+bit export grommet.icons icons-base/directions & 
+bit export grommet.icons icons-base/form-checkmark & 
+bit export grommet.icons icons-base/table-add & 
+bit export grommet.icons icons-base/shift & 
+bit export grommet.icons icons-base/platform-horton & 
+bit export grommet.icons icons-base/tooltip & 
+bit export grommet.icons icons-base/clock & 
+bit export grommet.icons icons-base/platform-java & 
+bit export grommet.icons icons-base/save & 
+bit export grommet.icons icons-base/template & 
+
+bit export grommet.icons icons-base/caret-back & 
+bit export grommet.icons icons-base/vulnerability & 
+bit export grommet.icons icons-base/login & 
+bit export grommet.icons icons-base/cubes & 
+bit export grommet.icons icons-base/contract & 
+bit export grommet.icons icons-base/sync & 
+
+
+-------------------------
+**this is whats left.
+
+bit export grommet.icons icons-base/bookmark &
+bit export grommet.icons icons-base/social-bitcoin &
+bit export grommet.icons icons-base/support &
+bit export grommet.icons icons-base/settigns-option &
+bit export grommet.icons icons-base/overview &
+bit export grommet.icons icons-base/form-down &
+bit export grommet.icons icons-base/social-linkedin &
+bit export grommet.icons icons-base/local &
+bit export grommet.icons icons-base/platform-safari-option &
+bit export grommet.icons icons-base/finger-print &
+bit export grommet.icons icons-base/access-ad &
+bit export grommet.icons icons-base/top-corner &
+bit export grommet.icons icons-base/access-assist-listening &
+bit export grommet.icons icons-base/social-wordpress &
+bit export grommet.icons icons-base/brand-grommet-path &
+bit export grommet.icons icons-base/schedules &
+bit export grommet.icons icons-base/blog &
+bit export grommet.icons icons-base/money &
+bit export grommet.icons icons-base/sort &
+bit export grommet.icons icons-base/notes &
+bit export grommet.icons icons-base/empty-circle &
+bit export grommet.icons icons-base/social-linkedin-option &
+bit export grommet.icons icons-base/circle-play &
+bit export grommet.icons icons-base/ascend &
+bit export grommet.icons icons-base/standards-offline-storage &
+bit export grommet.icons icons-base/business-service &
+bit export grommet.icons icons-base/camera &
+bit export grommet.icons icons-base/caret-down &
+bit export grommet.icons icons-base/coat-check &
+bit export grommet.icons icons-base/platform-debian &
+bit export grommet.icons icons-base/social-instagram &
+bit export grommet.icons icons-base/servers &
+bit export grommet.icons icons-base/directions &
+bit export grommet.icons icons-base/shift &
+bit export grommet.icons icons-base/platform-java 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
